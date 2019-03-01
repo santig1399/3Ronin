@@ -8,11 +8,16 @@ public class Movement : MonoBehaviour
     Rigidbody2D rb;
     Animator anim;
     Vector2 mov;
-   
+
+    CircleCollider2D attackCollider;
+
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+
+        attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
+        
     }
 
     
@@ -23,6 +28,7 @@ public class Movement : MonoBehaviour
 
         Move(x,y);
         Animations();
+        
     }
 
     void Move(float x, float y) {
@@ -42,5 +48,7 @@ public class Movement : MonoBehaviour
         }
         
     }
-    
+
+   
+
 }
