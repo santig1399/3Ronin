@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     public int damage;
     public float stoppingDistance;
     public float speed;
-    public float timeBtwAttacks;
+    public float startTimeBtwAttacks;
     public float visiusRadius;
 
     
@@ -30,13 +30,13 @@ public class Enemy : MonoBehaviour
         //    rb.MovePosition(rb.position + target * speed * Time.deltaTime);
         //}
         Transform t = Targ();
-        
-        
-        if (Vector2.Distance(transform.position, t.position) > stoppingDistance && Vector2.Distance(transform.position, t.position)<visiusRadius)
+
+
+        if (Vector2.Distance(transform.position, t.position) > stoppingDistance && Vector2.Distance(transform.position, t.position) < visiusRadius)
         {
             transform.position = Vector2.MoveTowards(transform.position, t.position, speed * Time.deltaTime);
-            
-        }
+
+        } 
         
     }
     

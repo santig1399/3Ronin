@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     public int maxHealth = 100;
-    private int currentHeatlh;
+    public int currentHeatlh;
 
     public AudioClip healingClip;
     public AudioClip hurtClip;

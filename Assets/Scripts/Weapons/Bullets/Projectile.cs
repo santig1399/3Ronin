@@ -8,18 +8,21 @@ public class Projectile : MonoBehaviour {
     public float speed;
     public float distance;
     public LayerMask whatIsSolid;
-
+    
+ 
+  
     private void Update()
     {
-        transform.Translate(Vector2.up * -speed * Time.deltaTime);
+        transform.Translate(Vector2.up * speed * Time.deltaTime);
+    
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
         if (hitInfo.collider != null)
         {
-            if (hitInfo.collider.CompareTag("Enemy"))
+            if (hitInfo.collider.CompareTag("Player"))
             {
-                Debug.Log("Enemy Must Take Damage");
-                hitInfo.collider.GetComponent<EnemyHealth>().TakeDamage(damage);
-                Destroy(gameObject);
+                Debug.Log("Player Must Take Damage");
+                hitInfo.collider.GetComponent<PlayerHealth>().TakeDamage(damage);
+                
             }
             DestroyProjectile();
 

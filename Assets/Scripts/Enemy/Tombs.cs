@@ -4,30 +4,63 @@ using UnityEngine;
 
 public class Tombs : MonoBehaviour
 {
-    public GameObject bulletPrefab;
+    
     public float startTimeBtwShoots;
     private float timeBtwShoots;
+    public int damage;
+    
+   //public GameObject impactEffect; // si hay?
+    public LineRenderer lineRenderer;
+    public Transform shootOrigin;
+    
+    
     
     void Start()
     {
         timeBtwShoots = startTimeBtwShoots;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up);
-        timeBtwShoots -= Time.deltaTime;
-        if (hit.transform.CompareTag("Player") && timeBtwShoots<=0)
-        {
-            Debug.Log("bullt Must be Instantiate");
-            
-            Instantiate(bulletPrefab, transform.position, transform.rotation);
-            timeBtwShoots = startTimeBtwShoots;
-        }       
-            
-    }
    
+        if (timeBtwShoots <= 0)
+        {
+            lineRenderer.enabled = false;
+            timeBtwShoots = startTimeBtwShoots;
+        }
+        else if (timeBtwShoots > 0){
+            TombShoot();
+            timeBtwShoots -= Time.deltaTime;
+        }
+        
+    }
+    
+    public void TombShoot() {
+
+        RaycastHit2D hit = Physics2D.Raycast(shootOrigin.position, shootOrigin.up);
+        if (hit)
+        {
+            PlayerHealth playerHealth = hit.transform.GetComponent<PlayerHealth>();
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(damage);
+                Debug.Log("playerHealth taking damage");
+            }
+            //Instantiate(impactEffect, hit.point, Quaternion.identity);
+            Debug.Log("imact effect");
+
+            lineRenderer.SetPosition(0, shootOrigin.position);
+            lineRenderer.SetPosition(1, hit.point);
+        }
+        else {
+            lineRenderer.SetPosition(0, shootOrigin.position);
+            lineRenderer.SetPosition(1, shootOrigin.position + shootOrigin.up * 100);
+            //aunque se supone que debe impactar si o si algo.
+        }
+
+        lineRenderer.enabled = true;
+        
+    }
 
 
 }
