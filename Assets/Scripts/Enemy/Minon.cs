@@ -4,35 +4,33 @@ using UnityEngine;
 
 public class Minon : Enemy
 {
-    private float counter;
     private Rigidbody2D rb;
-    private Vector2 mov;
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();        
+        rb = GetComponent<Rigidbody2D>();
     }
     void Update()
     {
         FollowPlayer();
     }
-    public override void FollowPlayer()
-    {
-        Vector2 t = Target();
-        if (Vector2.Distance(rb.position, t) <= stoppingDistance)
+    public override void FollowPlayer() {
+
+        Transform t = Target();
+        Vector2 dir = (t.position - transform.position).normalized;
+        if (Vector2.Distance(transform.position, t.position) > stoppingDistance && Vector2.Distance(transform.position, t.position) < visiusRadius)
         {
-            counter -= Time.deltaTime;
-            float x = Mathf.Cos(counter);
-            float y = Mathf.Sin(counter);
-            
-            mov.Set(x, y);
-            rb.MovePosition(rb.position + (mov * Time.deltaTime));
+            rb.MovePosition(rb.position + dir * speed * Time.deltaTime);
         }
-        else {
-            
-            base.FollowPlayer();
+        else if (Vector2.Distance(transform.position, t.position) < stoppingDistance && Vector2.Distance(transform.position, t.position) > retreatDistance)
+        {
+            transform.position = this.transform.position;
         }
-        
+        else if (Vector2.Distance(transform.position, t.position) < retreatDistance)
+        {
+            rb.MovePosition(rb.position + dir * -speed * Time.deltaTime);
+        }
     }
+
 
 }

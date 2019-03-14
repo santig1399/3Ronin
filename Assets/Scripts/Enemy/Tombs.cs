@@ -46,8 +46,6 @@ public class Tombs : MonoBehaviour
                 playerHealth.TakeDamage(damage);
                 Debug.Log("playerHealth taking damage");
             }
-            //Instantiate(impactEffect, hit.point, Quaternion.identity);
-            Debug.Log("imact effect");
 
             lineRenderer.SetPosition(0, shootOrigin.position);
             lineRenderer.SetPosition(1, hit.point);
