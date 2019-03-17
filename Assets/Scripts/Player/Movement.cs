@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+
     public float speed;
     Rigidbody2D rb;
     Animator anim;
@@ -19,27 +20,21 @@ public class Movement : MonoBehaviour
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         
     }
-
     
-    void Update()
-    {
-        float x = Input.GetAxisRaw("Horizontal");
-        float y = Input.GetAxisRaw("Vertical");
+   
 
-        Move(x,y);
-        Animations();
-        
-    }
-
-    void Move(float x, float y) {
+    public void Move(float x, float y) {
         mov.Set(x, y);
         mov = mov.normalized * Time.deltaTime * speed;
-        rb.MovePosition(rb.position + mov);      
+        rb.MovePosition(rb.position + mov);
+        Animations();
+        
     }
     void Animations() {
         if (mov != Vector2.zero)
         {
             // set bool walking 
+            //set animator floats movX-movY with values of mov.x and mov.y
             print("walking animation");
         }
         else {
@@ -47,6 +42,13 @@ public class Movement : MonoBehaviour
             print("idle animation");
         }
         
+    }
+    public void Attack() {
+     
+        //Debug.Log("Attacking With Basic Attack");
+    }
+    public void SpecialAttack() {
+        Debug.Log("Attacking With Special Attack");
     }
 
    

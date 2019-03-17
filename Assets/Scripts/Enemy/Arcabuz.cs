@@ -22,7 +22,9 @@ public class Arcabuz : MonoBehaviour
     }
     void Update()
     {
-        FollowTarget();
+        if (target != null) {
+            FollowTarget();
+        } 
     }
 
     public void FollowTarget() {

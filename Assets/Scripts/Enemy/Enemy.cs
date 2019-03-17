@@ -16,6 +16,7 @@ public class Enemy : MonoBehaviour
     public  GameObject bulletPrefab;
 
     public virtual void FollowPlayer() {
+        
        
         Transform t = Target();
         if (Vector2.Distance(transform.position, t.position) > stoppingDistance)
