@@ -101,10 +101,21 @@ MonoBehaviour:
   visiusRadius: 7
   speed: 2.5
   startTimeBtwAttacks: 3
-  bulletPrefab: {fileID: 503915514414000691, guid: 318c7e883bd01e444ad82a4e3fe8aacf,
+  bulletPrefab: {fileID: 1036462515556974226, guid: 2dbe2557e00aaa0408bbf4b1ab2bb207,
     type: 3}
   startWaitTime: 2
   maxWaitTime: 5
+  randomSpot: {x: 0, y: 0, z: 0}
+  minX: 0
+  minY: 0
+  maxX: 0
+  maxY: 0
+  whatIsSolid:
+    serializedVersion: 2
+    m_Bits: 768
+  bossBullets:
+  - {fileID: 188142213026987285, guid: ddb7bceb801f92b49bd325f55102e7fd, type: 3}
+  - {fileID: 503915514414000691, guid: 318c7e883bd01e444ad82a4e3fe8aacf, type: 3}
 --- !u!95 &8494691722133080001
 Animator:
   serializedVersion: 3

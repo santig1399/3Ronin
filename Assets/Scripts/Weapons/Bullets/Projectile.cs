@@ -8,13 +8,16 @@ public class Projectile : MonoBehaviour {
     public float speed;
     public float distance;
     public LayerMask whatIsSolid;
-    
- 
-  
+    private Transform player;
+
+    private void Start()
+    {
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+    }
     private void Update()
     {
         transform.Translate(Vector2.up * speed * Time.deltaTime);
-    
+        
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
         if (hitInfo.collider != null)
         {

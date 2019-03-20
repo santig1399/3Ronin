@@ -24,6 +24,7 @@ public class BossSpawnManager : MonoBehaviour
 
     public string bossName;
     public Sprite bossSprite;
+    public GameObject controls;
 
     private InputHandler playerMov;
 
@@ -62,8 +63,10 @@ public class BossSpawnManager : MonoBehaviour
 
         uiAnim.SetTrigger("Fight");
         playerMov.enabled = false;
+        controls.SetActive(false);
         yield return new WaitForSeconds(2f);
         playerMov.enabled = true;
+        controls.SetActive(true);
         yield return new WaitForSeconds(0.2f);
         Instantiate(bossPrefab, spawnPoint, Quaternion.identity);
        ;
