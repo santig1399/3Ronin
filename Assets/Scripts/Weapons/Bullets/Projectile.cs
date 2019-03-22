@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour {
 
-    public int damage = 10;
+    public int damage;
     public float speed;
     public float distance;
+    public GameObject impactEffect;
     public LayerMask whatIsSolid;
-    private Transform player;
+    public Transform player;
 
     private void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
-    private void Update()
+    public virtual void  Shoot()
     {
         transform.Translate(Vector2.up * speed * Time.deltaTime);
         
@@ -39,7 +40,7 @@ public class Projectile : MonoBehaviour {
         Destroy(gameObject);
     }
 
-    public void OnBecameInvisible()
+    public virtual void OnBecameInvisible()
     {
         Destroy(gameObject);
     }

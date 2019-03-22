@@ -36,11 +36,13 @@ public class BossSpawnManager : MonoBehaviour
         centerRoom.Set(((maxX - minX) / 2) + minX, ((maxY - minY) / 2) + minY,0);
         uiAnim = GameObject.FindGameObjectWithTag("UILevelInfo").GetComponent<Animator>();
         playerMov = GameObject.FindGameObjectWithTag("Player").GetComponent<InputHandler>();
+        
 
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if (collision.CompareTag("Player") && !activated && bossPrefab != null) {
             print("player is on");
             boss.MinX = this.minX;

@@ -5,11 +5,12 @@ using UnityEngine;
 public class Boss : Enemy
 {
    // public Transform [] objetives;
+   [Header("Spots Info")]
     public float startWaitTime;
     public float maxWaitTime;
     private float waitTime;
     // private int randomSpot;
-    [Header("Random Movement")]
+    [Header("Random Movement Info")]
     [SerializeField]
     private Vector3 randomSpot;
     [SerializeField]
@@ -17,10 +18,13 @@ public class Boss : Enemy
 
 
     private Animator anim;
+    [Header("Ray Info")]
     public LayerMask whatIsSolid;
     private Transform player;
     private float timeBtwAttacks;
     public GameObject [] bossBullets;
+
+
 
     public float MinX { get => minX; set => minX = value; }
     public float MinY { get => minY; set => minY = value; }

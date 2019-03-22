@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
-{
+{   
+    [Header ("Stats")]
     public int damage;
     public float stoppingDistance;
     public float retreatDistance;

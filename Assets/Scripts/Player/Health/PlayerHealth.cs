@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
     public int maxHealth = 100;
     public int currentHeatlh;
+    public Slider healthSlider;
 
     public AudioClip healingClip;
     public AudioClip hurtClip;
@@ -17,6 +19,7 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHeatlh = maxHealth;
         anim = GetComponent<Animator>();
+        healthSlider.value = 100;
     }
 
     
@@ -27,11 +30,15 @@ public class PlayerHealth : MonoBehaviour
             Die();
 
         }
+        if (currentHeatlh > maxHealth) {
+            currentHeatlh = maxHealth;
+        }
     }
 
     public void TakeHealth(int health) {
         if (currentHeatlh < maxHealth) {
             currentHeatlh += health;
+            healthSlider.value = currentHeatlh * 100 / maxHealth;
             //play healing sound
             Debug.Log(" taking healh");
         }
@@ -39,6 +46,7 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int damage) {
         if (currentHeatlh > 0) {
             currentHeatlh -= damage;
+            healthSlider.value = currentHeatlh * 100 / maxHealth;
             // hurt sound;
             Debug.Log("Taking Damage");
         }
