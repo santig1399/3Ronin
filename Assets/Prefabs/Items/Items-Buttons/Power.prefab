@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3866006919530385087}
   - component: {fileID: 988638023845908819}
   m_Layer: 5
-  m_Name: Item 2
+  m_Name: Power
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -143,5 +143,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickEffect: {fileID: 0}
   useEffect: {fileID: 0}
-  item: {fileID: 5995669561628975444, guid: ec8bb2d8000b22248b18c9c19b9676fb, type: 3}
+  item: {fileID: 5995669561628975444, guid: ee452e703e0bc8d45bf7d749b277d0ca, type: 3}
   type: 2

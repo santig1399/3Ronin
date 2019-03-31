@@ -112,6 +112,7 @@ MonoBehaviour:
   damage: 2
   speed: 5
   distance: 0
+  impactEffect: {fileID: 0}
   whatIsSolid:
     serializedVersion: 2
     m_Bits: 768

@@ -35,17 +35,17 @@ public class Movement : MonoBehaviour
         {
             // set bool walking 
             //set animator floats movX-movY with values of mov.x and mov.y
-            print("walking animation");
+           // print("walking animation");
         }
         else {
             //set bool walking to false
-            print("idle animation");
+            //print("idle animation");
         }
         
     }
     public void Attack() {
      
-        //Debug.Log("Attacking With Basic Attack");
+        Debug.Log("Attacking With Basic Attack");
     }
     public void SpecialAttack() {
         Debug.Log("Attacking With Special Attack");

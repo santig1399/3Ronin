@@ -14,6 +14,7 @@ public class BossSpawnManager : MonoBehaviour
     private Vector3 spawnPoint;
     private Vector3 centerRoom;
     
+    
     private bool activated;
     private GameObject player;
     private Animator uiAnim;
@@ -24,8 +25,6 @@ public class BossSpawnManager : MonoBehaviour
 
     public string bossName;
     public Sprite bossSprite;
-    public GameObject controls;
-
     private InputHandler playerMov;
 
     private void Start()
@@ -64,11 +63,11 @@ public class BossSpawnManager : MonoBehaviour
     IEnumerator StageInfo() {
 
         uiAnim.SetTrigger("Fight");
-        playerMov.enabled = false;
-        controls.SetActive(false);
+        playerMov.enabled = false; 
+        
         yield return new WaitForSeconds(2f);
         playerMov.enabled = true;
-        controls.SetActive(true);
+        
         yield return new WaitForSeconds(0.2f);
         Instantiate(bossPrefab, spawnPoint, Quaternion.identity);
        ;

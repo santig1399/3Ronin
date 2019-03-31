@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class Bullet : Projectile
 {
-   
-
+    
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();    
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
     
     void Update()
@@ -20,7 +19,7 @@ public class Bullet : Projectile
     }
 
     public override void Shoot()
-    {
+    {        
         base.Shoot();
     }
 }
