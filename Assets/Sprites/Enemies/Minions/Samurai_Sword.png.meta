@@ -1,0 +1,3806 @@
+fileFormatVersion: 2
+guid: 8c2af41658ff70547bdd030dce2d2f12
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Samurai_Sword_0
+    21300002: Samurai_Sword_1
+    21300004: Samurai_Sword_2
+    21300006: Samurai_Sword_3
+    21300008: Samurai_Sword_4
+    21300010: Samurai_Sword_5
+    21300012: Samurai_Sword_6
+    21300014: Samurai_Sword_7
+    21300016: Samurai_Sword_8
+    21300018: Samurai_Sword_9
+    21300020: Samurai_Sword_10
+    21300022: Samurai_Sword_11
+    21300024: Samurai_Sword_12
+    21300026: Samurai_Sword_13
+    21300028: Samurai_Sword_14
+    21300030: Samurai_Sword_15
+    21300032: Samurai_Sword_16
+    21300034: Samurai_Sword_17
+    21300036: Samurai_Sword_18
+    21300038: Samurai_Sword_19
+    21300040: Samurai_Sword_20
+    21300042: Samurai_Sword_21
+    21300044: Samurai_Sword_22
+    21300046: Samurai_Sword_23
+    21300048: Samurai_Sword_24
+    21300050: Samurai_Sword_25
+    21300052: Samurai_Sword_26
+    21300054: Samurai_Sword_27
+    21300056: Samurai_Sword_28
+    21300058: Samurai_Sword_29
+    21300060: Samurai_Sword_30
+    21300062: Samurai_Sword_31
+    21300064: Samurai_Sword_32
+    21300066: Samurai_Sword_33
+    21300068: Samurai_Sword_34
+    21300070: Samurai_Sword_35
+    21300072: Samurai_Sword_36
+    21300074: Samurai_Sword_37
+    21300076: Samurai_Sword_38
+    21300078: Samurai_Sword_39
+    21300080: Samurai_Sword_40
+    21300082: Samurai_Sword_41
+    21300084: Samurai_Sword_42
+    21300086: Samurai_Sword_43
+    21300088: Samurai_Sword_44
+    21300090: Samurai_Sword_45
+    21300092: Samurai_Sword_46
+    21300094: Samurai_Sword_47
+    21300096: Samurai_Sword_48
+    21300098: Samurai_Sword_49
+    21300100: Samurai_Sword_50
+    21300102: Samurai_Sword_51
+    21300104: Samurai_Sword_52
+    21300106: Samurai_Sword_53
+    21300108: Samurai_Sword_54
+    21300110: Samurai_Sword_55
+    21300112: Samurai_Sword_56
+    21300114: Samurai_Sword_57
+    21300116: Samurai_Sword_58
+    21300118: Samurai_Sword_59
+    21300120: Samurai_Sword_60
+    21300122: Samurai_Sword_61
+    21300124: Samurai_Sword_62
+    21300126: Samurai_Sword_63
+    21300128: Samurai_Sword_64
+    21300130: Samurai_Sword_65
+    21300132: Samurai_Sword_66
+    21300134: Samurai_Sword_67
+    21300136: Samurai_Sword_68
+    21300138: Samurai_Sword_69
+    21300140: Samurai_Sword_70
+    21300142: Samurai_Sword_71
+    21300144: Samurai_Sword_72
+    21300146: Samurai_Sword_73
+    21300148: Samurai_Sword_74
+    21300150: Samurai_Sword_75
+    21300152: Samurai_Sword_76
+    21300154: Samurai_Sword_77
+    21300156: Samurai_Sword_78
+    21300158: Samurai_Sword_79
+    21300160: Samurai_Sword_80
+    21300162: Samurai_Sword_81
+    21300164: Samurai_Sword_82
+    21300166: Samurai_Sword_83
+    21300168: Samurai_Sword_84
+    21300170: Samurai_Sword_85
+    21300172: Samurai_Sword_86
+    21300174: Samurai_Sword_87
+    21300176: Samurai_Sword_88
+    21300178: Samurai_Sword_89
+    21300180: Samurai_Sword_90
+    21300182: Samurai_Sword_91
+    21300184: Samurai_Sword_92
+    21300186: Samurai_Sword_93
+    21300188: Samurai_Sword_94
+    21300190: Samurai_Sword_95
+    21300192: Samurai_Sword_96
+    21300194: Samurai_Sword_97
+    21300196: Samurai_Sword_98
+    21300198: Samurai_Sword_99
+    21300200: Samurai_Sword_100
+    21300202: Samurai_Sword_101
+    21300204: Samurai_Sword_102
+    21300206: Samurai_Sword_103
+    21300208: Samurai_Sword_104
+    21300210: Samurai_Sword_105
+    21300212: Samurai_Sword_106
+    21300214: Samurai_Sword_107
+    21300216: Samurai_Sword_108
+    21300218: Samurai_Sword_109
+    21300220: Samurai_Sword_110
+    21300222: Samurai_Sword_111
+    21300224: Samurai_Sword_112
+    21300226: Samurai_Sword_113
+    21300228: Samurai_Sword_114
+    21300230: Samurai_Sword_115
+    21300232: Samurai_Sword_116
+    21300234: Samurai_Sword_117
+    21300236: Samurai_Sword_118
+    21300238: Samurai_Sword_119
+    21300240: Samurai_Sword_120
+    21300242: Samurai_Sword_121
+    21300244: Samurai_Sword_122
+    21300246: Samurai_Sword_123
+    21300248: Samurai_Sword_124
+    21300250: Samurai_Sword_125
+    21300252: Samurai_Sword_126
+    21300254: Samurai_Sword_127
+    21300256: Samurai_Sword_128
+    21300258: Samurai_Sword_129
+    21300260: Samurai_Sword_130
+    21300262: Samurai_Sword_131
+    21300264: Samurai_Sword_132
+    21300266: Samurai_Sword_133
+    21300268: Samurai_Sword_134
+    21300270: Samurai_Sword_135
+    21300272: Samurai_Sword_136
+    21300274: Samurai_Sword_137
+    21300276: Samurai_Sword_138
+    21300278: Samurai_Sword_139
+    21300280: Samurai_Sword_140
+    21300282: Samurai_Sword_141
+    21300284: Samurai_Sword_142
+    21300286: Samurai_Sword_143
+    21300288: Samurai_Sword_144
+    21300290: Samurai_Sword_145
+    21300292: Samurai_Sword_146
+    21300294: Samurai_Sword_147
+    21300296: Samurai_Sword_148
+    21300298: Samurai_Sword_149
+    21300300: Samurai_Sword_150
+    21300302: Samurai_Sword_151
+    21300304: Samurai_Sword_152
+    21300306: Samurai_Sword_153
+    21300308: Samurai_Sword_154
+    21300310: Samurai_Sword_155
+    21300312: Samurai_Sword_156
+    21300314: Samurai_Sword_157
+    21300316: Samurai_Sword_158
+    21300318: Samurai_Sword_159
+    21300320: Samurai_Sword_160
+    21300322: Samurai_Sword_161
+    21300324: Samurai_Sword_162
+    21300326: Samurai_Sword_163
+    21300328: Samurai_Sword_164
+    21300330: Samurai_Sword_165
+    21300332: Samurai_Sword_166
+    21300334: Samurai_Sword_167
+    21300336: Samurai_Sword_168
+    21300338: Samurai_Sword_169
+    21300340: Samurai_Sword_170
+    21300342: Samurai_Sword_171
+    21300344: Samurai_Sword_172
+    21300346: Samurai_Sword_173
+    21300348: Samurai_Sword_174
+    21300350: Samurai_Sword_175
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1151
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4794857, y: 0.25854135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e6f31b7ea9fd4babdee1773630f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1151
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.53172785, y: 0.3149188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff82dab71ed3b843a9ef98ca64ee17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1151
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5805989, y: 0.36549973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e37d10be61ef95459ddeaadf37c73c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1151
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27810872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae221b6f5ab47b4b9b9051a0133c0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1151
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49489376, y: 0.22156084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a243d6a32023bf40959ab7b40509841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1151
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5211826, y: 0.17114013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41676ae2086c50c418c92ae607442e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1151
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.38020366, y: 0.15904118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c790e43b2a05b4b8d5dd0c34462e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1151
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.2523335, y: 0.17318289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d3a21f24d01942a3b053a48960a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1151
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.24948446, y: 0.19076063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7fdf2dc0617f47aed8698a729e57d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1151
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.24853298, y: 0.18706326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cfe6270f165246bfb450f1ff22a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1151
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51949733, y: 0.16834716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78da5e2281de3d40b335976d19ed0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1151
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.47276992, y: 0.24452479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f2f15a78b822428e7bffdbcc8bf3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1097
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51230776, y: 0.7484562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3cc0fa77c48494bbe71f91a2c772da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1104
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.46827215, y: 0.68507665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b8a6aa90744e342a9ab3e74527c608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1108
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.425669, y: 0.6280146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f071e90b9388bd4e91f5bf7bc2a7ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1101
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5047658, y: 0.7049398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72967aef6f975574eaef9d31def580e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1093
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.50510734, y: 0.77467746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0342c42bd15a6ae41b67f37c68e15683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1081
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48411277, y: 0.826001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d24e4c1cca6c54c8bd52daf63ca556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1079
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6275255, y: 0.83545864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00127923fd8c3d040985c57a30fdfc10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1082
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7502202, y: 0.8268171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f4cda471ce9142b3a4aaf36de348e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1086
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.75051445, y: 0.8117513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247037fae86dda7469acdb7f6cf5b299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1086
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.75381577, y: 0.8070855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286dcbcc663aff4d8361e816eb9a39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1081
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48049814, y: 0.829021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a443c90dddb953b47a2a27a9c66cbb98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1097
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5181527, y: 0.7477309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd1e726383c1b478015a5a4bb7190e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1030
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25191092, y: 0.51722455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c9be8d2139aaa4ebaa5382ab7c21d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1031
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3164009, y: 0.46767172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b86a65dfcab364aac16cd590489642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1032
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.37817848, y: 0.4130938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f596321e17754ea8b120fcaf9cf01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1030
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.28806305, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6a9a3491d73948b0fbfa4610cd0e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1031
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.22491696, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee05414fe1bf2342aa0f1815ba970ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1032
+        width: 50
+        height: 27
+      alignment: 9
+      pivot: {x: 0.16838074, y: 0.48473668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791881fad0b0e1046b37601f4949e1b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1022
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.16296563, y: 0.6208133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40340b7990b9d7447858b7e037b2560a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1003
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.17218392, y: 0.7511226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ed961bc04ed845afd3190fb1ac60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1003
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.19266222, y: 0.7485526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6aab3eb0d0f344a929c7c9710ef2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1003
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.19081217, y: 0.74845666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a11d70c093a4a46bf10025654c6b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1032
+        width: 50
+        height: 27
+      alignment: 9
+      pivot: {x: 0.16443847, y: 0.47979057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad9985d6e99704f8e0960ae61acdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1030
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.24724624, y: 0.51881564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f188ddb76a5948a0a8f2a9126aac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 935
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7415492, y: 0.47640043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c45e190c31fbe409f39af434b7b6dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 933
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.68250304, y: 0.5273763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724117dce8967d42b8ffbf559293821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 931
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6310352, y: 0.5688614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426a675fbe4661469c30d48ae0ce22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 935
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.71347755, y: 0.49581096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5de940f1a9c5c45b65438054f2dc75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 935
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.77428234, y: 0.5044774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1240977e6929428533f185a2bbd0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 935
+        width: 50
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8264966, y: 0.5232521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455631749c931f34fb85a92b8fba533e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 935
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8332578, y: 0.38120908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6bfc465e50114d8ed5921e02ed939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 935
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.82668257, y: 0.24618639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e98271a2c8efb41bc8067455cf478f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 935
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.80987144, y: 0.24792154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae1164477c842348adb3f6f10afc5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_45
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 935
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.80910915, y: 0.2490169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a807d660b1e242905b41176a040da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 935
+        width: 50
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8303613, y: 0.5160952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255bf5f25c90044dbef519b96bdc777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_47
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 935
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.747169, y: 0.4800057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b254a55d199b3c43922b716fff2a7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 884
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.27567297, y: 0.58830804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bace51abb18d154891f6d00d6b6cf58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.2884621, y: 0.58212686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04c5b0bfc325b4f934fd9e81ab14b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 887
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.28416634, y: 0.5717534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef24680ebd2ac241bcd95b6ee658fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 884
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.28113884, y: 0.57291144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efd4608be13c147b8f5af76b5b6015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 883
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.23140717, y: 0.63734627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaad29ce5dde404b9eabe958dcbae01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 872
+        width: 41
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24272193, y: 0.7219451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1747b39ec7b2f4fa7203f0c11ca242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 856
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.22492835, y: 0.80010265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641d2f8d452f244da338f37775d0aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 848
+        width: 22
+        height: 67
+      alignment: 9
+      pivot: {x: 0.44862783, y: 0.82049745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f07bdd048bd74993272ef198a5241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_56
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 848
+        width: 22
+        height: 67
+      alignment: 9
+      pivot: {x: 0.45156583, y: 0.822855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a6ea60f84a6d4ead90401b0a46bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_57
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 847
+        width: 22
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44730723, y: 0.8196223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff3013735b9504089589abc5de7994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_58
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 871
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25214908, y: 0.7190268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609413873bba30e4caf5c55c20ac87de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_59
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 884
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.27230224, y: 0.579456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a0a85e93b3954face0e62d2f0c212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 760
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3932356, y: 0.30299547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065650c8189859f4e89ab88efac21394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 760
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42012125, y: 0.31205055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d040bce8c203eee4790afbcbde021652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 760
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45972553, y: 0.3282032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1348091e0b04488416aa099b4dc94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 760
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.41365987, y: 0.2930751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15561a5521eed91488bf31cf6b467e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 761
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.36715698, y: 0.24634129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1001e07a1df2d5d499af8979b6440a59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_65
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 760
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.29129598, y: 0.24271448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27846a23146a5fd4d88b23eaf897827b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_66
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 761
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 0.19578733, y: 0.21510242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a35d3e9eab1904980766086af0e3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_67
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 760
+        width: 67
+        height: 22
+      alignment: 9
+      pivot: {x: 0.17712858, y: 0.4482505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012b8cf1ef4cfd345ab429ec15383281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_68
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 760
+        width: 68
+        height: 22
+      alignment: 9
+      pivot: {x: 0.18426873, y: 0.46303767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c6703913148b43b6406e305c9dc60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_69
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 760
+        width: 68
+        height: 22
+      alignment: 9
+      pivot: {x: 0.17948554, y: 0.4482505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef192d3ed0d4efd4cb9116126c9dc632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_70
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 760
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.26926583, y: 0.26030692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218b7a5002233d4c9a0ff6f21875ca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_71
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 760
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.41080794, y: 0.28623396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0bff1d47428e04488689ac3a4cda01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 710
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.60458446, y: 0.71535915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327b24897b765d4582a72403cb9a7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 713
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5939753, y: 0.6879494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801c4947c6de754e96898109ad2495b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_74
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 714
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5755163, y: 0.7070389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13d2e8944a1ad4498db5cdeb465b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 711
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5812614, y: 0.7114258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e30dca95aad9243bccec442d6c7ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 709
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.637763, y: 0.76240706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab3dba21bd39d4f973ccc864c8e339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_77
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 705
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.71236616, y: 0.7457662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee436d2247f4a4583dfaa7604a2cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 704
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 0.80247366, y: 0.776187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8cb55fb686ce4eb780deff68be025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 724
+        width: 67
+        height: 22
+      alignment: 9
+      pivot: {x: 0.83501107, y: 0.5591486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b46e3842b3834a9bc47f1819ecb19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_80
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 724
+        width: 68
+        height: 22
+      alignment: 9
+      pivot: {x: 0.81812423, y: 0.5443615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816186d8c87da2a4fafd29753b9519b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_81
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 724
+        width: 68
+        height: 22
+      alignment: 9
+      pivot: {x: 0.82530034, y: 0.5591486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2615d5b86a3b04da85d22620a1dc3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_82
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 708
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.72695565, y: 0.7268548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f0fb062f4be64fbbdea95f00f0cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_83
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 711
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.59969205, y: 0.71376956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1043bd23aa6a443ae22e83481923d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 591
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.72875756, y: 0.3491329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfefd3813091c546a4655f60c857f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 591
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.717232, y: 0.39138386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704ecf529b652b14f8a9970902f1ba48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_86
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 591
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7086954, y: 0.44158936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e6079cdb09104e9385801036d0328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_87
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 591
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.71027744, y: 0.420863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0efef7359ec24ebef2d2e371300a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 591
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7650096, y: 0.39778328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd2802835d1ff45b4b2626e3bc0078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 591
+        width: 41
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7692573, y: 0.2908098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef28abe6cc1647409265aa7cb415138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_90
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 591
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.7823167, y: 0.2043188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a69103a9f50374681785d92fb8043f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_91
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 591
+        width: 22
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5619507, y: 0.17859888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77576b5284bb2c4ba418df21f58e470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_92
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 591
+        width: 22
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5687589, y: 0.17638795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b510e059366bc459eb23f6b66c8fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_93
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 591
+        width: 22
+        height: 68
+      alignment: 9
+      pivot: {x: 0.57448786, y: 0.17929256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03bc6f990931d4bacdb1f73d9b5edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_94
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 592
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.75142145, y: 0.27781358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5484db769365b4289d456ae049596b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_95
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 591
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.73557824, y: 0.41978604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28ed5da5d359b40894356e64e90274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 542
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2514705, y: 0.5187988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b7ad9863d38f4484cb91fd685a40e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_97
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 542
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.26575017, y: 0.52349854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af928823fe20d4d93005ee65ffcbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 541
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.34305918, y: 0.5272583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9d0e131faba74480606035e3c1983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 541
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.40156808, y: 0.53180134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29d2896f51f0d4ca2186297442460f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 542
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.32866386, y: 0.5093994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00025772494f4d84d9dbbbb8becab156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_101
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 542
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25147024, y: 0.5187988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621eae849532684a8f07a1f45669d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 542
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23499128, y: 0.52349854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab4cfd4ad0a5b4a95ea2422f177666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_103
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 542
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27728122, y: 0.46592712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7429fcf49b0d046826fdba259d84fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_104
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 542
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3309673, y: 0.46848488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d3a8c7eb67ce4b8943909f70711a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_105
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 542
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2899029, y: 0.52173483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b68749c3a1cbe49ab5c2aebaa23936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_106
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 471
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7473958, y: 0.48840016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e01e1c9c435ee44a042de795206792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 471
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.73192334, y: 0.4790218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ed22cb88081749ae1eeaebb57ec5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 471
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6558251, y: 0.4657186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15cbe26fa7f7c4e8b4605ec5301011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_109
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 471
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.59794784, y: 0.4657186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c884b819ddcf4b96a99412fd27128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_110
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 471
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6721078, y: 0.4848012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec953ad697fe042891e5f082479cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_111
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 471
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.74630916, y: 0.48986816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a995e18276fd4e47b5f28cbed8f8e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_112
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 471
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.76527405, y: 0.4848012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ded38a310367542887621a79619c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_113
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 468
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.71858925, y: 0.53673077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff03e0ed0168b47ad2a837eb506ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_114
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 468
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.670295, y: 0.5321388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b368c1d1a6c258429522a6bbae87f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_115
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 471
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6996617, y: 0.47973529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee072d99b3d1047b30de4d46703538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_116
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 390
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48050636, y: 0.25060496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41204ad8638612f44aec9a8535a5afbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 390
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4853805, y: 0.27034855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f607e4d89c5e40a64a3e18fdc0668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 387
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46702373, y: 0.34154627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936e229ba6e8b04b827f4382f0b54fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_119
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 384
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46702424, y: 0.4057846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557100e319d369f4fa2a9b0cfb5f07ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_120
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 387
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.48537996, y: 0.32637328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ae8c2a7b28dd449c8d7006c97dc5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_121
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4910573, y: 0.25212905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc97f66bb973874b84ac33b5744d6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_122
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 390
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4776443, y: 0.23708767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e6b6db5fb8b84792cf3f83ec21a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_123
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 387
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5264473, y: 0.28179187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bd9a9f5cd75eb4cbfcca181403ad67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_124
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 384
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53022575, y: 0.33238915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497001e149c61242adbfdfa603dd0a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_125
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 387
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4874941, y: 0.29850104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7153b97296d44db4c6ff89909d3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 306
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51029354, y: 0.7414443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a200c27f76d5c4fbcc9a25822f0faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_127
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 308
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51544034, y: 0.7332134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f417b0aed221424d84c108b1709345d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_128
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 310
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52985126, y: 0.64473283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe330c67e6c93f4a9ac14fb9a80b212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_129
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 310
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.52985126, y: 0.591212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110454453cb7434abd70f4bf4323953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_130
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 308
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5205867, y: 0.6663147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7d952fae64b84e80da963314e5676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_131
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 306
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5205867, y: 0.7502244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f264a6485713fd41b3439eae13eb4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_132
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 304
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5154398, y: 0.7653461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292e1066df99464eb295d68c1d79f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_133
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 302
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46268463, y: 0.71842474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68cd97e57cdfd74ab5c302cdae955ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_134
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 302
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4665413, y: 0.6668472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762044460d655042aaff98885600db9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_135
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 304
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5196701, y: 0.708439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadeaa7e39f6b1f499ccb293976cc6d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 238
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28047338, y: 0.60295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752b583881765a4788e6aad34375b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_137
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.31404808, y: 0.5666146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf438f8f955ba63459a74c3908786b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_138
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 240
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.41503817, y: 0.54126847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c049cb7605cab84d8e7ae9802ec90f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_139
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 240
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.38217488, y: 0.5423389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6853e5fdb20ab45a924ae9c311c0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_140
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 239
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.31943107, y: 0.5493927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92325cba27bf1bd478fff4433e161cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_141
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 238
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.2953549, y: 0.56139016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3622e0bbed9e4c9bc0e36bd5b7254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_142
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 238
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.29535598, y: 0.57056504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085f24c8670cdf4f9212b99ff8b7fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_143
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 237
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.2715596, y: 0.5924181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357fc210a7b8d54d8d90c9e7dda92ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_144
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 237
+        width: 46
+        height: 30
+      alignment: 9
+      pivot: {x: 0.30870256, y: 0.58867645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2aabb97154420479ffc42686616577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_145
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 238
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.30254978, y: 0.55167234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9301e17e1e8a47b14edb02fe64dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4019117, y: 0.29455906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce38d61de2edfa4e803cbb99c79c4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_147
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 169
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4349189, y: 0.3445668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85900e07c8cb884190d67e80f571882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4258532, y: 0.3889775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20daccf5a9e70540b3091196a7f7a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_149
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 168
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.42564854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678754395c47414baa4152a00d65969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_150
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 170
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.46745986, y: 0.3501183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149db9c9f1ad0dc4fb4805106c11a9c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_151
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 170
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.42450562, y: 0.29085603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f9cee8cae8cc42833b73d68e760c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.42841104, y: 0.28294984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec23d335cf5e2343920b269ffb6c144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_153
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 168
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4025879, y: 0.25858927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db560c83bc749d4bbd01eaa7f14238b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_154
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 166
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.41192424, y: 0.3112604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c43e1c949f5334fb94a1940c79b537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_155
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 169
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.44338176, y: 0.3020537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd69b63897ed71d45806195f8f4f07b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_156
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7249929, y: 0.38419473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d30a3d51f665b4ea0fea39914e6eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6917444, y: 0.41825497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4339666bc14e585489e241b449e0cd21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 96
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.62874466, y: 0.4531021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a685e1098fe1e45aa174effcc6cc48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5994845, y: 0.48490694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2c76eb6674f549a2917d03c6f9aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_160
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 98
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.693117, y: 0.43207866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31c9e049176c741a79a0636d5dac75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_161
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 98
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7247809, y: 0.45622838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5419276252e4f44befedeff0e24fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_162
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 99
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7462242, y: 0.4396244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db393bef004629e4ca8b661441b0e6cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_163
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 96
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7544953, y: 0.42234138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b038b1a71cd97347892eafb05fc0470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_164
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 94
+        width: 46
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7045925, y: 0.4343417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368e090a160bdd44937003db7dc5578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7135278, y: 0.44893238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1349ecbe08dd740a0952fd677e3074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_166
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6021831, y: 0.71401924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a477f90cabbc34cbff5771060a5963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_167
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5603764, y: 0.6544937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b717a1a89b8245b8ca72ca65e7628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_168
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 24
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5547164, y: 0.59655917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902e9c3a6438804faee250df0665d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_169
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 25
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5377355, y: 0.61274916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ffb7fc8b1e20e4dbdd8c755a9cc7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_170
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 22
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5603775, y: 0.6866793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92803ab3db4e8b649ab9ec86cac3aecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_171
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5729553, y: 0.7070349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd826ea52e4304a9e45d53323a7041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_172
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 15
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.59811294, y: 0.7352813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2356d7715e2114b98108b2d1686901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_173
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 15
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5847227, y: 0.72904605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cecc40c10f6841ab32c92fb20f4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_174
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 14
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.59484255, y: 0.6855602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f22b568a5dbdc4dad53ab798b875da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Sword_175
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 16
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.55836385, y: 0.6975136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c9d0746a6ac574ba27aad9c8023908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f7c2a8240c8df64095c2ced9444ff30
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

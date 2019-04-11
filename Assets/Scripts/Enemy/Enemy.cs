@@ -11,7 +11,8 @@ public class Enemy : MonoBehaviour
     public float visiusRadius;
     public float speed;
     public float startTimeBtwAttacks;
-   
+    
+    
     public  GameObject bulletPrefab;
 
    

@@ -35,7 +35,7 @@ public class Boss : Enemy
     {
         anim = GetComponent<Animator>();
         randomSpot.Set(Random.Range(minX, maxX), Random.Range(minY, maxY),0);
-        timeBtwAttacks = startTimeBtwAttacks;
+        timeBtwAttacks = 1f;
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
 
