@@ -8,6 +8,7 @@ public class Minon : Enemy
     private Transform target;
     private Animator anim;
     private float timeBtwAttacks;
+    private CircleCollider2D attackCollider;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,9 +23,11 @@ public class Minon : Enemy
         }
     }
     public override void FollowPlayer() {
-
         
-        Vector2 dir = (target.position - transform.position ).normalized;
+
+        Vector2 dir = (target.position - transform.position );
+        dir = dir.normalized;
+
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance && Vector2.Distance(transform.position, target.position) < visiusRadius)
         {
             rb.MovePosition(rb.position + dir * speed * Time.deltaTime);
@@ -59,6 +62,13 @@ public class Minon : Enemy
             anim.SetBool("Walking", false);
             anim.SetFloat("movX", dir.x);
             anim.SetFloat("movY", dir.y);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.transform.CompareTag("Player")) {
+            Debug.Log("Hit Player");
         }
     }
 

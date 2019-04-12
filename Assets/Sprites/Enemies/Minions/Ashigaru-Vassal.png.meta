@@ -1,0 +1,2818 @@
+fileFormatVersion: 2
+guid: 4c50e0210950bad4e8cba805d78162a5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ashigaru-Vassal_0
+    21300002: Ashigaru-Vassal_1
+    21300004: Ashigaru-Vassal_2
+    21300006: Ashigaru-Vassal_3
+    21300008: Ashigaru-Vassal_4
+    21300010: Ashigaru-Vassal_5
+    21300012: Ashigaru-Vassal_6
+    21300014: Ashigaru-Vassal_7
+    21300016: Ashigaru-Vassal_8
+    21300018: Ashigaru-Vassal_9
+    21300020: Ashigaru-Vassal_10
+    21300022: Ashigaru-Vassal_11
+    21300024: Ashigaru-Vassal_12
+    21300026: Ashigaru-Vassal_13
+    21300028: Ashigaru-Vassal_14
+    21300030: Ashigaru-Vassal_15
+    21300032: Ashigaru-Vassal_16
+    21300034: Ashigaru-Vassal_17
+    21300036: Ashigaru-Vassal_18
+    21300038: Ashigaru-Vassal_19
+    21300040: Ashigaru-Vassal_20
+    21300042: Ashigaru-Vassal_21
+    21300044: Ashigaru-Vassal_22
+    21300046: Ashigaru-Vassal_23
+    21300048: Ashigaru-Vassal_24
+    21300050: Ashigaru-Vassal_25
+    21300052: Ashigaru-Vassal_26
+    21300054: Ashigaru-Vassal_27
+    21300056: Ashigaru-Vassal_28
+    21300058: Ashigaru-Vassal_29
+    21300060: Ashigaru-Vassal_30
+    21300062: Ashigaru-Vassal_31
+    21300064: Ashigaru-Vassal_32
+    21300066: Ashigaru-Vassal_33
+    21300068: Ashigaru-Vassal_34
+    21300070: Ashigaru-Vassal_35
+    21300072: Ashigaru-Vassal_36
+    21300074: Ashigaru-Vassal_37
+    21300076: Ashigaru-Vassal_38
+    21300078: Ashigaru-Vassal_39
+    21300080: Ashigaru-Vassal_40
+    21300082: Ashigaru-Vassal_41
+    21300084: Ashigaru-Vassal_42
+    21300086: Ashigaru-Vassal_43
+    21300088: Ashigaru-Vassal_44
+    21300090: Ashigaru-Vassal_45
+    21300092: Ashigaru-Vassal_46
+    21300094: Ashigaru-Vassal_47
+    21300096: Ashigaru-Vassal_48
+    21300098: Ashigaru-Vassal_49
+    21300100: Ashigaru-Vassal_50
+    21300102: Ashigaru-Vassal_51
+    21300104: Ashigaru-Vassal_52
+    21300106: Ashigaru-Vassal_53
+    21300108: Ashigaru-Vassal_54
+    21300110: Ashigaru-Vassal_55
+    21300112: Ashigaru-Vassal_56
+    21300114: Ashigaru-Vassal_57
+    21300116: Ashigaru-Vassal_58
+    21300118: Ashigaru-Vassal_59
+    21300120: Ashigaru-Vassal_60
+    21300122: Ashigaru-Vassal_61
+    21300124: Ashigaru-Vassal_62
+    21300126: Ashigaru-Vassal_63
+    21300128: Ashigaru-Vassal_64
+    21300130: Ashigaru-Vassal_65
+    21300132: Ashigaru-Vassal_66
+    21300134: Ashigaru-Vassal_67
+    21300136: Ashigaru-Vassal_68
+    21300138: Ashigaru-Vassal_69
+    21300140: Ashigaru-Vassal_70
+    21300142: Ashigaru-Vassal_71
+    21300144: Ashigaru-Vassal_72
+    21300146: Ashigaru-Vassal_73
+    21300148: Ashigaru-Vassal_74
+    21300150: Ashigaru-Vassal_75
+    21300152: Ashigaru-Vassal_76
+    21300154: Ashigaru-Vassal_77
+    21300156: Ashigaru-Vassal_78
+    21300158: Ashigaru-Vassal_79
+    21300160: Ashigaru-Vassal_80
+    21300162: Ashigaru-Vassal_81
+    21300164: Ashigaru-Vassal_82
+    21300166: Ashigaru-Vassal_83
+    21300168: Ashigaru-Vassal_84
+    21300170: Ashigaru-Vassal_85
+    21300172: Ashigaru-Vassal_86
+    21300174: Ashigaru-Vassal_87
+    21300176: Ashigaru-Vassal_88
+    21300178: Ashigaru-Vassal_89
+    21300180: Ashigaru-Vassal_90
+    21300182: Ashigaru-Vassal_91
+    21300184: Ashigaru-Vassal_92
+    21300186: Ashigaru-Vassal_93
+    21300188: Ashigaru-Vassal_94
+    21300190: Ashigaru-Vassal_95
+    21300192: Ashigaru-Vassal_96
+    21300194: Ashigaru-Vassal_97
+    21300196: Ashigaru-Vassal_98
+    21300198: Ashigaru-Vassal_99
+    21300200: Ashigaru-Vassal_100
+    21300202: Ashigaru-Vassal_101
+    21300204: Ashigaru-Vassal_102
+    21300206: Ashigaru-Vassal_103
+    21300208: Ashigaru-Vassal_104
+    21300210: Ashigaru-Vassal_105
+    21300212: Ashigaru-Vassal_106
+    21300214: Ashigaru-Vassal_107
+    21300216: Ashigaru-Vassal_108
+    21300218: Ashigaru-Vassal_109
+    21300220: Ashigaru-Vassal_110
+    21300222: Ashigaru-Vassal_111
+    21300224: Ashigaru-Vassal_112
+    21300226: Ashigaru-Vassal_113
+    21300228: Ashigaru-Vassal_114
+    21300230: Ashigaru-Vassal_115
+    21300232: Ashigaru-Vassal_116
+    21300234: Ashigaru-Vassal_117
+    21300236: Ashigaru-Vassal_118
+    21300238: Ashigaru-Vassal_119
+    21300240: Ashigaru-Vassal_120
+    21300242: Ashigaru-Vassal_121
+    21300244: Ashigaru-Vassal_122
+    21300246: Ashigaru-Vassal_123
+    21300248: Ashigaru-Vassal_124
+    21300250: Ashigaru-Vassal_125
+    21300252: Ashigaru-Vassal_126
+    21300254: Ashigaru-Vassal_127
+    21300256: Ashigaru-Vassal_128
+    21300258: Ashigaru-Vassal_129
+    21300260: Ashigaru-Vassal_130
+    21300262: Ashigaru-Vassal_131
+    21300264: Ashigaru-Vassal_132
+    21300266: Ashigaru-Vassal_133
+    21300268: Ashigaru-Vassal_134
+    21300270: Ashigaru-Vassal_135
+    21300272: Ashigaru-Vassal_136
+    21300274: Ashigaru-Vassal_137
+    21300276: Ashigaru-Vassal_138
+    21300278: Ashigaru-Vassal_139
+    21300280: Ashigaru-Vassal_140
+    21300282: Ashigaru-Vassal_141
+    21300284: Ashigaru-Vassal_142
+    21300286: Ashigaru-Vassal_143
+    21300288: Ashigaru-Vassal_144
+    21300290: Ashigaru-Vassal_145
+    21300292: Ashigaru-Vassal_146
+    21300294: Ashigaru-Vassal_147
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1350
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.41898838, y: 0.23792237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba6a35eb55bba4cbee594ff32c0e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1347
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40801668, y: 0.30131835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbfe3efa1c85294eb03c196a0d7bf66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1345
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40801668, y: 0.33811036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4835c495a6f843adb60375d176b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1344
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4080162, y: 0.3509043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d431d127ed8b3644b9bd14f8db191956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1347
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.41184902, y: 0.29641113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c80e914623d5f468dfd4b55f5fd4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1350
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4208748, y: 0.24244873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ce6f0301aaa541b7812610cc2cfe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1347
+        width: 30
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47138265, y: 0.2506246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ca30f120f2a44d84aad14704b1e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1344
+        width: 30
+        height: 63
+      alignment: 9
+      pivot: {x: 0.47138265, y: 0.28780693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92f1da5a064c324bb5770271610517a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1347
+        width: 29
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4492503, y: 0.2526338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c520f72a44924ca060ea0da1deb5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1270
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.58084816, y: 0.7606543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425eee45435e004fb81b70a95ba172e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1273
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5939858, y: 0.6979956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94b235913aa48448607b93dbc21998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1275
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.59398603, y: 0.6578955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4562a114aef4459830ef2171b8d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1275
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59790134, y: 0.64742744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6278e1aef2db4bac574ffbe5e0be8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1273
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5979004, y: 0.6979956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc89dc23da8da04788cd9c88f20f50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1270
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5848881, y: 0.758147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00eb87805ef94d478eb09341b700f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1263
+        width: 30
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5375936, y: 0.74854124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabec0b161bc54f40950cd5829c4a83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1263
+        width: 30
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53341675, y: 0.7128364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebdb055ff71453479242d68cf261daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1264
+        width: 29
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5518525, y: 0.74638134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f7e6ef7ee441499e3c38a0e81376d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1189
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23607224, y: 0.5778139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b020dc7a3eaa341a2e66ec586072c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1188
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29566848, y: 0.59311676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e3d1fbe01f5e44a35e63ebf5f7454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1188
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.34546784, y: 0.59389496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a98aa88ecfe414da3535724a445bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1188
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35757986, y: 0.587059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2baa94d60c8f4090f6543e502eae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1188
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30896178, y: 0.593277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692064b7f0d14814d8158e143d38eeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1189
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23938538, y: 0.57820374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb88b829dd05b84e8a58253a9e0a826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_24
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1191
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: 0.24925944, y: 0.5315592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634ef89a740534418b85156c1dadbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_25
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1191
+        width: 63
+        height: 30
+      alignment: 9
+      pivot: {x: 0.28457788, y: 0.5315592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16135253a9c51a04b8b529df0ae5dc27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1191
+        width: 59
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25749078, y: 0.5471612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba0bdf6ebef30a40a5bdadeef1c45d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1098
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.75979173, y: 0.4178388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec95f21dbc1ad1469664dc9a4d50674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1098
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.69832945, y: 0.41088104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad24706073d30047b9dc6c9e6108109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1098
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.66073793, y: 0.40885544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a078caa358dc634cb86f35180db1541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1098
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.64741904, y: 0.40885544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad71819e66ce6f43a020d50117d1071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1098
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.70203674, y: 0.41749954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa211deef986c44b92e9120748c411b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1098
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7595923, y: 0.423899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737614260c1770f45bc12b6d7e7d77ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1097
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7516815, y: 0.46833903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7eb30570dd2a49a39289230b7b6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1097
+        width: 63
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7110537, y: 0.46200764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77589ae310c164bb3f5e6d67e21e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1098
+        width: 59
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7446796, y: 0.45414788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f1950568c2474b8d3f15b5a3cabfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1022
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.39570695, y: 0.71852565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183eda08fc49f8e4fad9f50641cac53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1023
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46400973, y: 0.70441353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf20709344a5e54287b5ec523d598bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1024
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48131615, y: 0.6421368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce5b76621407d4bac354691dd4cddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1024
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.491487, y: 0.6059779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9d789a2446e74c9d3ed32b457b3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1022
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46449903, y: 0.66507566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1143e668cb8b8049b88772fee0629b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1021
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.38607788, y: 0.72193986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3da4c77d6d5054a9287490e01cba73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1018
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3146622, y: 0.734509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19650de764bdbde4f98a9b965d794103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_44
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1018
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.33992472, y: 0.71663123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914053d7b38acd44b040644e6f98f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_46
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1018
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.30902365, y: 0.72410077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c9cfa642a8de74b99bb68ed2b5c3ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 905
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.30638865, y: 0.47515175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed962adff8dd948840754fb60dd441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 905
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.37034217, y: 0.49046573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e456dcb9687c42b587223cf40b410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 904
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42333388, y: 0.48447073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58a6c7f56b44b54eb1106f137806821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 906
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.34635085, y: 0.46157697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd524ea75a4fafb40b888a96b069dc63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_53
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 909
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2904864, y: 0.393563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c7970abb3a5d489b557d6bf740b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_56
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 912
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.2712606, y: 0.30023193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13666404f259f2949ace71a1868b54bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 908
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2931525, y: 0.40371287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6c980518d55c48aae22ba4d13da33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 911
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2612498, y: 0.3111027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e68ca2c1be5f488c72cec5667af37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_59
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 910
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.2762335, y: 0.33377385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a275b02b6fdc48a95cfd7b6332116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 839
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7105418, y: 0.5993944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec86e2517bdd93b41bc82f8823c571ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 842
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.70120454, y: 0.52484965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1f2329252f1d4081b65cf48ac6027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 843
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.63316345, y: 0.51589185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca178875e249a4bbad7af96382a546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 843
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.60469764, y: 0.50629354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c355df88aa9f00b41abaf28d0b5dbfc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_65
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 841
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6545044, y: 0.5405176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae393e1857449848b85fd3575b5f061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 838
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7218387, y: 0.6064384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1976b91aa896439b5f7814aaf00d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 833
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7554083, y: 0.69374245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd016e701e9fdf48924758a7d278244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_68
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 832
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7187965, y: 0.67475235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd7ec26afbaed9418ebe906cd2b9712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_69
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 833
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7324989, y: 0.69941515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3d68cac4cdd14d9e66cc0f91ed5a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 735
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5455485, y: 0.31310695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f4ce13fa073041851271912026f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 732
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5133167, y: 0.37153038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf444f7f31c411c48993ca89b3abb167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_75
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 729
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.50650716, y: 0.40922138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157336df128f2844b9c30fb5c2b1a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 733
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5357888, y: 0.33895415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337c0cee923407a41adb523a24a84ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6138729, y: 0.28150538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9198b25871834b80b6e95a2b9aa04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_79
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 736
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6827496, y: 0.26257622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d635ce88b69f479178a86fe7b3a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_81
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 735
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.69294673, y: 0.2888504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f6a3e7d4df894c9f71a1dda8b423c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 735
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.600858, y: 0.29107502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bac9f70ec3ca946b7779b1b23c8f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_83
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 735
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.66652507, y: 0.28186327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faffd4a3a23bb144900558a0ae4d272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 642
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.41316444, y: 0.24054322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d84093a8ef26c4c91882904a94ee52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 639
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40698814, y: 0.29630616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36de6d1ec66f3d4a977b09a9530e57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 637
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4069395, y: 0.34117675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b03b71f001fa45b4bef4f07e44859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 637
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40078545, y: 0.33958495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0a282437292f4897cbe4179d0bf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_88
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 639
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4102726, y: 0.2990088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d87516997edc4982a5525da2f9c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_89
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 646
+        width: 30
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5341827, y: 0.11156764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace924cbbdf23c4fa5ef7bb803bce20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_90
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 639
+        width: 30
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47265422, y: 0.250471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8909bec6bd5e429439897ccd8ea4d031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 570
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.57325447, y: 0.76424927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4bfa5f0a9c92c4faa8f4bb06f7801c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 573
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6032219, y: 0.69818723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4cc890803529a4ab432cba376adb52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 575
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5977392, y: 0.6633325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72ddb6b69441e4cb5fc5f69f4a6d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 575
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.59773827, y: 0.65638304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b88ecf1c602c4db4b331f8310fe36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 573
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5597286, y: 0.7015601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e42727e28241488d4e24de7e56d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 550
+        width: 30
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4652466, y: 0.8843763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c0b21166d54940a2013de58a2e778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_97
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 563
+        width: 30
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5405416, y: 0.74615884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3029493e3504d4fa404c473c153e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 502
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7620868, y: 0.4199061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff33efe546605498dd3291e02ae1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_99
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 502
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7013928, y: 0.40516663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e46f88936ee2e46981925869b5b251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 502
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.660011, y: 0.40947723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9a457f95465244bb3688675a2811e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 502
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6572522, y: 0.40947723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd367fd7c96fc64da0972cb7932ebd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 502
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6958759, y: 0.40516663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acfa84ffb966844878dface3ad19f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 499
+        width: 66
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8782917, y: 0.5367859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81601fff3cb3fc4fa14daea476270cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 502
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: 0.74599403, y: 0.46781412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0bfe3ad100104d916b7231fa5c090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 377
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23504524, y: 0.58039117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7a6026fe01964297e641c53435a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_106
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 376
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30062822, y: 0.5942755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f373adafa681734fa962eda39a78890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 376
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33735475, y: 0.5901766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b241366626f23469af5d655e84ee5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 376
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.34323302, y: 0.5897007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9dbcec57e94b4c843d6ab9e8a7dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_109
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 376
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2994574, y: 0.5981188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e449a19dd32e4ab53f2ae74d50cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_110
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 381
+        width: 66
+        height: 30
+      alignment: 9
+      pivot: {x: 0.12248693, y: 0.46286213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9baa36410dd641983d8e0bdbd55e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_111
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 379
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: 0.24546915, y: 0.5363617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421004b341ac1d40b17dbaff9394094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.3814231, y: 0.7275254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712101a58398014196a0bbfcef1018b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 318
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4677986, y: 0.68202716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0a360834894a4db0abc7f457b3dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 319
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4879244, y: 0.6872271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f544582e9359e468be72540ff1be80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 317
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4838992, y: 0.71646374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d862755ced4c40b4bba757ab509c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_116
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 318
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.459748, y: 0.69678664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854fbbeee646a794c92b9a51f045a8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_117
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 302
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.17786679, y: 0.78811467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54fa0798792d0e47a6586391509b9ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 312
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3148466, y: 0.7435623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd806aa65c19c24da5322b76232a5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_121
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 209
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.20617975, y: 0.16941218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a109efa64d4cc4bbb8430295dc5de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_123
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.26935095, y: 0.38575503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e8227b5eaa5094fb9c4ed537f70ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 199
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.29866493, y: 0.4670542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e530ad9464bb534cb731ddef1eeed8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_125
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.30700946, y: 0.49130976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd00fd1fa7738a458b293ffdd026430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_126
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 198
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.27658674, y: 0.49283254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e24810e1ed09b49953da79522c79a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_127
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 199
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.30327013, y: 0.46232882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e3a0ed7f1a404ab6f45cfc12f46cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_129
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 205
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.25536513, y: 0.31290483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce977ccfb4e595b4695c54eebd6cbb50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_130
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.73260397, y: 0.6233999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc0346830a2ea4e86d5157a2c96fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 139
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.70390195, y: 0.53277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3906d5297bb246ad8f5d5379049be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_132
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 140
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.698492, y: 0.5148954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7278a86e40edb647b015af81d514d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_133
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 140
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7267354, y: 0.51107544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579b07f6f516fa43a24cb952ff2ba77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_134
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 139
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.69627887, y: 0.53599447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911bae0807275f4190ea8b7bf09d0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_135
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 111
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.8031676, y: 0.83080983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ffd66b1a7918429d364c1fc15e632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 130
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7475467, y: 0.69338375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a0bf9d4a5fa147979e8b0e60d2c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 30
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.8319865, y: 0.20169449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04581d7cff34f884382b2c30f5a6865c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_142
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 30
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6309419, y: 0.26734152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f431d3068c5f5249b6395912b3f5e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5453335, y: 0.29878363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3af76886c8a16449c8bbcda3c0e86c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_144
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52298427, y: 0.2890721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ececc82a3eef6d43bd26a2749d5ffca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_145
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 30
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5250515, y: 0.2630114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b28dc27ee13f4892a89367908a2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_146
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 29
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.54093516, y: 0.29987472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c35a08b0773e46b78594b2dce706e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashigaru-Vassal_147
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 30
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.69993037, y: 0.24898715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6ab7043d9024489b907394d96dcb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3b26edaa0775c049a742a0e9f733425
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
