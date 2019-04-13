@@ -10,6 +10,7 @@ public class PlayerHealth : MonoBehaviour
     private float maxValue;
     public Slider healthSlider;
     public RectTransform fillImage;
+    public Text lifeText;
 
     public AudioClip healingClip;
     public AudioClip hurtClip;
@@ -23,6 +24,7 @@ public class PlayerHealth : MonoBehaviour
         anim = GetComponent<Animator>();
         healthSlider.value = 100;
         maxValue = fillImage.sizeDelta.x;
+        lifeText.text = currentHeatlh.ToString() + "/" + maxHealth.ToString();
     }
 
     
@@ -36,8 +38,8 @@ public class PlayerHealth : MonoBehaviour
         if (currentHeatlh > maxHealth) {
             currentHeatlh = maxHealth;
         }
-
-        //fillImage.sizeDelta = new Vector2(Mathf.Clamp(Mathf.MoveTowards(currentHeatlh * 130f / maxHealth,0f, 5f),0f,130f), 66.1f);
+        
+        fillImage.sizeDelta = new Vector2(Mathf.Clamp(Mathf.MoveTowards(currentHeatlh * 130f / maxHealth,0f, 5f),0f,130f), 66.1f);
         
     }
 
@@ -47,6 +49,7 @@ public class PlayerHealth : MonoBehaviour
             //healthSlider.value = currentHeatlh * 100 / maxHealth;
             //play healing sound
             fillImage.sizeDelta = new Vector2(Mathf.Clamp(Mathf.MoveTowards(currentHeatlh * 130f / maxHealth, 0f, 5f), 0f, 130f), 66.1f);
+            lifeText.text = currentHeatlh.ToString() + "/" + maxHealth.ToString();
             Debug.Log(" taking healh");
         }
     }
@@ -55,6 +58,7 @@ public class PlayerHealth : MonoBehaviour
             currentHeatlh -= damage;
             //healthSlider.value = currentHeatlh * 100 / maxHealth;
             fillImage.sizeDelta = new Vector2(Mathf.Clamp(Mathf.MoveTowards(currentHeatlh * 130f / maxHealth, 0f, 5f), 0f, 130f), 66.1f);
+            lifeText.text = currentHeatlh.ToString() + "/" + maxHealth.ToString();
             // hurt sound;
             Debug.Log("Taking Damage");
         }

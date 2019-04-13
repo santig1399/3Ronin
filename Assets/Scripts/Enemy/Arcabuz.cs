@@ -11,12 +11,14 @@ public class Arcabuz : MonoBehaviour
     public GameObject bulletPrefab;
     public Transform firePoint;
     public float offset;
+    private Animator anim;
 
     public float startTimeBtwShoots;
     private float timeBtwShoots;
 
     private void Start()
     {
+        anim = GetComponent<Animator>();
         target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         timeBtwShoots = startTimeBtwShoots;
     }
@@ -37,6 +39,7 @@ public class Arcabuz : MonoBehaviour
 
             if (timeBtwShoots <= 0)
             {
+                anim.SetTrigger("Attacking");
                 Instantiate(bulletPrefab, firePoint.position,firePoint.rotation);
                 timeBtwShoots = startTimeBtwShoots;
             }

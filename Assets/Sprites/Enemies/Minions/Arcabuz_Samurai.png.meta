@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: d974d19b79b4c3248aea3b1050a097e3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcabuz_Samurai_2
+    21300002: Arcabuz_Samurai_3
+    21300004: Arcabuz_Samurai_4
+    21300006: Arcabuz_Samurai_5
+    21300008: Arcabuz_Samurai_6
+    21300010: Arcabuz_Samurai_7
+    21300012: Arcabuz_Samurai_8
+    21300014: Arcabuz_Samurai_9
+    21300016: Arcabuz_Samurai_10
+    21300018: Arcabuz_Samurai_11
+    21300020: Arcabuz_Samurai_12
+    21300022: Arcabuz_Samurai_13
+    21300024: Arcabuz_Samurai_14
+    21300026: Arcabuz_Samurai_15
+    21300028: Arcabuz_Samurai_16
+    21300030: Arcabuz_Samurai_17
+    21300032: Arcabuz_Samurai_18
+    21300034: Arcabuz_Samurai_19
+    21300036: Arcabuz_Samurai_20
+    21300038: Arcabuz_Samurai_21
+    21300040: Arcabuz_Samurai_22
+    21300042: Arcabuz_Samurai_23
+    21300044: Arcabuz_Samurai_24
+    21300046: Arcabuz_Samurai_25
+    21300048: Arcabuz_Samurai_26
+    21300050: Arcabuz_Samurai_27
+    21300052: Arcabuz_Samurai_28
+    21300054: Arcabuz_Samurai_29
+    21300056: Arcabuz_Samurai_30
+    21300058: Arcabuz_Samurai_31
+    21300060: Arcabuz_Samurai_32
+    21300062: Arcabuz_Samurai_33
+    21300064: Arcabuz_Samurai_34
+    21300066: Arcabuz_Samurai_35
+    21300068: Arcabuz_Samurai_36
+    21300070: Arcabuz_Samurai_37
+    21300072: Arcabuz_Samurai_38
+    21300074: Arcabuz_Samurai_39
+    21300076: Arcabuz_Samurai_40
+    21300078: Arcabuz_Samurai_41
+    21300080: Arcabuz_Samurai_42
+    21300082: Arcabuz_Samurai_43
+    21300084: Arcabuz_Samurai_44
+    21300086: Arcabuz_Samurai_45
+    21300088: Arcabuz_Samurai_46
+    21300090: Arcabuz_Samurai_47
+    21300092: Arcabuz_Samurai_48
+    21300094: Arcabuz_Samurai_49
+    21300096: Arcabuz_Samurai_50
+    21300098: Arcabuz_Samurai_51
+    21300100: Arcabuz_Samurai_52
+    21300102: Arcabuz_Samurai_53
+    21300104: Arcabuz_Samurai_54
+    21300106: Arcabuz_Samurai_55
+    21300108: Arcabuz_Samurai_56
+    21300110: Arcabuz_Samurai_57
+    21300112: Arcabuz_Samurai_58
+    21300114: Arcabuz_Samurai_59
+    21300116: Arcabuz_Samurai_60
+    21300118: Arcabuz_Samurai_61
+    21300120: Arcabuz_Samurai_62
+    21300122: Arcabuz_Samurai_63
+    21300124: Arcabuz_Samurai_64
+    21300126: Arcabuz_Samurai_65
+    21300128: Arcabuz_Samurai_66
+    21300130: Arcabuz_Samurai_67
+    21300132: Arcabuz_Samurai_68
+    21300134: Arcabuz_Samurai_69
+    21300136: Arcabuz_Samurai_70
+    21300138: Arcabuz_Samurai_71
+    21300140: Arcabuz_Samurai_72
+    21300142: Arcabuz_Samurai_73
+    21300144: Arcabuz_Samurai_74
+    21300146: Arcabuz_Samurai_75
+    21300148: Arcabuz_Samurai_76
+    21300150: Arcabuz_Samurai_77
+    21300152: Arcabuz_Samurai_78
+    21300154: Arcabuz_Samurai_79
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 634
+        width: 57
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47892198, y: 0.22633769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd05216850281f43a7662654bde2b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 638
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.51820374, y: 0.16388048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75264c58ddf8f78478b3a45166a84475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 639
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47928515, y: 0.22744921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff5276e1378ff489d5614fcbbe71eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 639
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4599518, y: 0.20207995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e066095eac66d478dff328790fb6a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 35
+        height: 46
+      alignment: 9
+      pivot: {x: 0.40274003, y: 0.1778737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7213537e2d9784f8945ca6d553cc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 639
+        width: 35
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4542306, y: 0.14684726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd25d34ccd40f4db2b7bea0d9e50e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 636
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25425026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ca97425fd85343a0f8d532c3b699a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 633
+        width: 75
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4893205, y: 0.34743536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a555605b7279346869adcec0911321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 567
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724a23f4c1c4ba4ba6b140b9beaf87d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 562
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4caede67eed35442a0a1ee1e6e884f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 567
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe17d947e2a7894eb3d22a37be93e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 567
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0592dd5419cc6439a9718e3d737008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 548
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd503be774356a94290216558ba944e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 548
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618878b6b7e33f47aaef92d84ee86b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 562
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f28614b9b2ef2489d7b5d49eeb4fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 567
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e1163712dbc84e9e46a64b7287073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 557
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bbda5c68247814ca473814cdda38db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 547
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b856bf57cd3c84581a14775395003e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 476
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ecf3ac2dc8ba942bd5c3a1a94de03e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 475
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56494e008c79a4f8b6c995e939ba8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b4d357f08e944d9ca2179d5fd0df4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 480
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33008c0fba40bed479cbdc47ad585b99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 472
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8ece1757dedb4381cdf217407d66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 474
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390db8f16be5ba64fa4478519557bc00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 461
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aeccc5be6dab54da92293570ad3409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 459
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99408a83495dbcc49bd910312925fc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 453
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4733a8a8aead1d479bae8923a0f6fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_29
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 453
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869dce8b1407af4095b86cf130b9df1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 385
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75380bfd6c11426439df6f0e7929db5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 385
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993a60dfb7857b4ba1d8dcbfd97b619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 392
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da9fb0373ca3947b4b090f1a313444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 385
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511ad97216b13c45938562407eeb616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 384
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ad821155e15548b6d936c192a164d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 383
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cc4f2bf2f86143a19aab7ba062a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d4e6c19190654391a10eb2006e83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 365
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df645dfdfbe104db37e815ba729896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 361
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa59203ef9aca347994ffc63be366df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_39
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 362
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc923fb14478342bbab652103d34e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 304
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5dcea92a9d884a8e4fa49da3324db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 298
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d76034681956346ac9cd3666ae6fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 301
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f525e036791dd14a834cc992430ed89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 303
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd612c213071f5542a9e7b86417ea58d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 281
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc536f224b1c154db0d06cde020882d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 275
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4bf3748d01adb4483655b0beb55664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 276
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e26d717e42734bbd421d9010a5b47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 285
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b64af10ae5b384db9a9f6429504fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 294
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae590b9653f0b946859596bd3c13e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a6eaffa7b600e4891a6b22b12dd2c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 220
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38122db94f41d3b4da0c56353aac63a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 215
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bda1ea79c7cdb41864819615935263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 207
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bf54a288ce75e41a2ed73535ed7afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 220
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e607fdfcc5f1b945872577dd3a52cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 197
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995f5ab315de93469a1b9e6deca7947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643c9d1c8df4ab48bda5a83b170c180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_56
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 191
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df085f6588bde94b8d34c6cbb690eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_57
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 189
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d7da6126dd1446bdd9d21a2e11fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 196
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b74133bec9c2294db0439eac06f364f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_59
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 210
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ab3e547893e14eb4da740b316798d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c8c31dd7426549a453c87442a74f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f370c537591c2419faaad16d23ebc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 113
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46eee3e89c6c7c41941bd9900de5fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 139
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbefdb98348b745842b485ef263d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 113
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411e056516e72e499b9e04115f47285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_65
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 140
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522f65ad85319e4cac4b7dba9529f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_66
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 110
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1df1fac4548c4f8e51f2ddc29c2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_67
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 103
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96a1b144af7f14b98910286f7c9d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 102
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dddeb90c9849db4bb04b8c654bf68cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 91
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b035ae6fd3c14246b3796909efd3c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b672ae64ac211c14dbade6cac34f905d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 58
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a3b1cb65014941bc755caf04e5bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 26
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a36ea49d1aec942aeecdfba859b3dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342fa1b0ee0fdd4e8a3159c7099f1cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_74
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 26
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f233a36cc105434c8bc1b5c8e6011d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_75
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 24
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950342bf08ed6c54388545e861a1b4c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_76
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 14
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34f9a117c223e438b4332f2bb55e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 22
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04581e7b47794640b39254018ee8869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_78
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af167262aa023d4e9612882998cffa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcabuz_Samurai_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 25
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2283650f56a544a90dca33fc34c256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 787ea5863a73ab74dad44dcda02c3f1a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

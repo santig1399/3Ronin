@@ -15,7 +15,7 @@ public class BossSpawnManager : MonoBehaviour
     private Vector3 centerRoom;
     
     
-    private bool activated;
+    public bool activated;
     private GameObject player;
     private Animator uiAnim;
     
@@ -38,6 +38,7 @@ public class BossSpawnManager : MonoBehaviour
         
 
     }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

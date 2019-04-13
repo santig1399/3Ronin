@@ -68,7 +68,7 @@ public class Minon : Enemy
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.transform.CompareTag("Player")) {
-            Debug.Log("Hit Player");
+            FindObjectOfType<PlayerHealth>().TakeDamage(damage);
         }
     }
 
