@@ -71,6 +71,7 @@ public class BossSpawnManager : MonoBehaviour
         
         yield return new WaitForSeconds(0.2f);
         Instantiate(bossPrefab, spawnPoint, Quaternion.identity);
+        boss.wasInstantiated = true;
        ;
     }
 }

@@ -20,9 +20,10 @@ public class InputHandler : MonoBehaviour
     void Update()
     {
 #if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
+        //x = Input.GetAxisRaw("Horizontal");
+        //y = Input.GetAxisRaw("Vertical");
         x = Input.GetAxisRaw("Horizontal");
         y = Input.GetAxisRaw("Vertical");
-        
         movement.Move(x, y);
 
         if (Input.GetKeyDown(KeyCode.E))

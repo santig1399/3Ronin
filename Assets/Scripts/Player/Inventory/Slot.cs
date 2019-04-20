@@ -19,11 +19,14 @@ public class Slot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 itemPos = new Vector2(player.transform.position.x, player.transform.position.y + 3);
-        if (transform.childCount <= 0)
-        {
-            inventory.isFull[index] = false;
+        if (player != null) {
+            Vector2 itemPos = new Vector2(player.transform.position.x, player.transform.position.y + 3);
+            if (transform.childCount <= 0)
+            {
+                inventory.isFull[index] = false;
+            }
         }
+        
     }
 
     public void Cross() {

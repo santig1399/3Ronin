@@ -8,9 +8,13 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 100;
     public int currentHeatlh;
     private float maxValue;
+    public bool canRespawn;
     public Slider healthSlider;
     public RectTransform fillImage;
     public Text lifeText;
+
+    public GameObject respawnMenu;
+    public GameObject gameOverMenu;
 
     public AudioClip healingClip;
     public AudioClip hurtClip;
@@ -20,6 +24,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Start()
     {
+        canRespawn = true;
         currentHeatlh = maxHealth;
         anim = GetComponent<Animator>();
         healthSlider.value = 100;
@@ -30,10 +35,9 @@ public class PlayerHealth : MonoBehaviour
     
     void Update()
     {
-        if (currentHeatlh <= 0) {
+        if (currentHeatlh <= 0 && !canRespawn) {
             Debug.Log("current health: " + currentHeatlh);
             Die();
-
         }
         if (currentHeatlh > maxHealth) {
             currentHeatlh = maxHealth;
@@ -66,9 +70,13 @@ public class PlayerHealth : MonoBehaviour
     public void Die() {
         //dead animation
         //dead sound
-        //try again scene
-        Debug.Log("player dead");
-        Destroy(gameObject);
+        //try again scen
+        if (this != null) {
+            Destroy(this.gameObject);
+            Debug.Log("player dead");
 
+        }
+        
+        
     }
 }

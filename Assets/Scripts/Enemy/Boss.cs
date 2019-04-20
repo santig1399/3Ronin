@@ -9,6 +9,7 @@ public class Boss : Enemy
     public float startWaitTime;
     public float maxWaitTime;
     private float waitTime;
+    public bool wasInstantiated;
     // private int randomSpot;
     [Header("Random Movement Info")]
     [SerializeField]

@@ -8,6 +8,7 @@ TagManager:
   - Attack
   - UILevelInfo
   - Controls
+  - GoldText
   layers:
   - Default
   - TransparentFX
