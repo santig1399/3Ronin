@@ -41,6 +41,7 @@ GameObject:
   - component: {fileID: 8298639619100147345}
   - component: {fileID: 8298639619100147350}
   - component: {fileID: 8298639619100147351}
+  - component: {fileID: 6157771152094844558}
   m_Layer: 0
   m_Name: Tomb
   m_TagString: Untagged
@@ -101,7 +102,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4b2f5c43d629f924a9e2b44272b6c178, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.61574405, g: 0.9528302, b: 0.83596694, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -123,7 +124,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea2f5beb6a7f2c64c9bb27e25821bd7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 6208724289104841036, guid: 9933a6acc55efb74d8fd37b25a1792b3,
+  bulletPrefab: {fileID: 6208724289104841036, guid: 92e76efe0dfc7de49b72f422fcf03d02,
     type: 3}
   startTimeBtwShoots: 2
   firePoint: {fileID: 8298639617187514761}
+--- !u!61 &6157771152094844558
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8298639619100147348}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.03, y: 0.1}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.28, y: 1.28}
+    newSize: {x: 1.28, y: 1.28}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.4, y: 0.87}
+  m_EdgeRadius: 0

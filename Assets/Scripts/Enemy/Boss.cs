@@ -19,12 +19,13 @@ public class Boss : Enemy
 
 
     private Animator anim;
+    private Rigidbody2D rb;
     [Header("Ray Info")]
     public LayerMask whatIsSolid;
     private Transform player;
     private float timeBtwAttacks;
     public GameObject [] bossBullets;
-
+    
 
 
     public float MinX { get => minX; set => minX = value; }
@@ -34,6 +35,7 @@ public class Boss : Enemy
 
     private void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         randomSpot.Set(Random.Range(minX, maxX), Random.Range(minY, maxY),0);
         timeBtwAttacks = 1f;
@@ -51,7 +53,7 @@ public class Boss : Enemy
     }
     public override void FollowPlayer()
     {
-        
+        rb.bodyType = RigidbodyType2D.Dynamic;
         Vector3 dir = (player.position - transform.position).normalized;
         Vector3 dirObjetives = (randomSpot - transform.position).normalized;
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, player.position - transform.position, visiusRadius, whatIsSolid);
@@ -89,6 +91,7 @@ public class Boss : Enemy
 
 
     public void MoveToSpot(Vector3 dirObjetives) {
+        rb.bodyType = RigidbodyType2D.Kinematic;
         transform.position = Vector2.MoveTowards(transform.position, randomSpot, speed * Time.deltaTime);
         anim.SetFloat("movX", dirObjetives.x);
         anim.SetFloat("movY", dirObjetives.y);

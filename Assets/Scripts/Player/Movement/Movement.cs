@@ -1,30 +1,91 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Movement : MonoBehaviour
 {
-    public int damage;
+    [Header("Player Stats")]
+    public int normalDamage;
+    private int damage;
+    [Tooltip("Damage ammount when special hability is actived")]
+    public int specialDamage;
     public float speed;
-    Rigidbody2D rb;
-    Animator anim;
-    Vector2 mov;
-    public int cointest;
-    CircleCollider2D attackCollider;
+    [Tooltip("Fixed duration time for the hability")]
+    public float startSpecialDuration;
+    [Tooltip("Cooldown time for special hability")]
+    public float startTimeBtwnSpecial;
+    //[SerializeField]
+    private float timeBtwSpecial;
+    //[SerializeField]
+    private float specialDuration;
+
+    public Color specialPlayerColor;
+    public Color specialImageColor;
+    private bool canActivateSpecial = true;
+    public Image specialIndicatorImage;
+    
+    private SpriteRenderer sprite;
+    private Rigidbody2D rb;
+    private Animator anim;
+    private Vector2 mov;
+
+    public GameObject splashArt;
+   
 
     void Start()
     {
+        specialDuration = 0;
+        timeBtwSpecial = startTimeBtwnSpecial;
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        sprite = GetComponent<SpriteRenderer>();
+        FindObjectOfType<Currency>().IntroDialogue(splashArt);
+        
+        specialIndicatorImage.fillAmount = timeBtwSpecial / startTimeBtwnSpecial;
+    }
 
-        attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
+    public void Update()
+    {
+        if (timeBtwSpecial<startTimeBtwnSpecial && specialDuration <= 0) {
+            canActivateSpecial = false;
+            timeBtwSpecial += Time.deltaTime;        
+            specialIndicatorImage.fillAmount = timeBtwSpecial / startTimeBtwnSpecial;
+        }
+        else if (timeBtwSpecial >= startTimeBtwnSpecial) {
+            canActivateSpecial = true;
+            
+        }
+
+        if (specialDuration > 0)
+        {
+            specialDuration -= Time.deltaTime;
+            sprite.color = specialPlayerColor;
+            specialIndicatorImage.fillAmount = specialDuration / startSpecialDuration;
+
+            //special stats
+            this.damage = specialDamage;
+        }
+        else if (specialDuration <= 0) {
+            sprite.color = Color.white;
+            this.damage = normalDamage;
+        }
+
+        if (specialIndicatorImage.fillAmount == 1)
+        {
+            specialIndicatorImage.color = specialImageColor;
+        }
+        else {
+            specialIndicatorImage.color = Color.white;
+        }
         
     }
 
     public void Move(float x, float y) {
         mov.Set(x, y);
         mov = mov.normalized * Time.deltaTime * speed;
-        rb.MovePosition(rb.position + mov);
+        //rb.MovePosition(rb.position + mov);
+        transform.Translate(new Vector3(x, y, 0).normalized * speed * Time.deltaTime);
         Animations(x,y);
         
     }
@@ -48,13 +109,26 @@ public class Movement : MonoBehaviour
         Debug.Log("Attacking With Basic Attack");
     }
     public void SpecialAttack() {
-        Debug.Log("Attacking With Special Attack");
+        if (canActivateSpecial) {
+            anim.SetTrigger("Special");
+            specialDuration = startSpecialDuration;
+            timeBtwSpecial = 0;
+            Debug.Log("Attacking With Special Attack");
+        }
+        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Enemy")) {
-            collision.GetComponent<EnemyHealth>().TakeDamage(damage);
+        if (collision != null) {
+
+            if (collision.CompareTag("Enemy"))
+            {
+                collision.GetComponent<EnemyHealth>().TakeDamage(damage);
+            }
+            //else if (collision.CompareTag("EnemyBullet")) {
+            //    Destroy(collision.gameObject)
+            //}
         }
     }
 

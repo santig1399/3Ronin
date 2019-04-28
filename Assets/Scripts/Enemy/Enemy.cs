@@ -19,17 +19,19 @@ public class Enemy : MonoBehaviour
     public virtual void FollowPlayer() {
 
         Transform target = Target();
+        Vector3 dir = (target.position - transform.position).normalized;
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance)
         {
-
-            transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+            transform.Translate(dir * speed*Time.deltaTime);
+           // transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
         }
         else if (Vector2.Distance(transform.position, target.position) < stoppingDistance && Vector2.Distance(transform.position, target.position) > retreatDistance)
         {
             transform.position = this.transform.position;
         }
         else if (Vector2.Distance(transform.position, target.position) < retreatDistance) {
-            transform.position = Vector2.MoveTowards(transform.position, target.position, -speed * Time.deltaTime);
+            transform.Translate(dir * -speed*Time.deltaTime);
+            //transform.position = Vector2.MoveTowards(transform.position, target.position, -speed * Time.deltaTime);
         }
         
     }

@@ -12,6 +12,7 @@ public class DialogueManager : MonoBehaviour
     public float typingSpeed;
     public GameObject inventory;
     public GameObject dialogueUi;
+    public GameObject initialSplashArt;
     //public Dialogue dialogue; 
 
     public GameObject continueButton;
@@ -22,6 +23,7 @@ public class DialogueManager : MonoBehaviour
     {   
         if (dialogue != null) {
             this.sentences = dialogue.dialogSentences;
+            //Debug.Log("Dialogu: "+dialogue.name);
             dialogueUi.SetActive(true);
             StartCoroutine(Type());
             inventory.SetActive(false);
@@ -61,6 +63,7 @@ public class DialogueManager : MonoBehaviour
         else {
             textDisplay.text = "";
             dialogueUi.SetActive(false);
+            initialSplashArt.SetActive(false);
             inventory.SetActive(true);
             continueButton.SetActive(false);
             FindObjectOfType<Movement>().speed = 5;

@@ -25,12 +25,13 @@ public class Minon : Enemy
     public override void FollowPlayer() {
         
 
-        Vector2 dir = (target.position - transform.position );
+        Vector3 dir = (target.position - transform.position );
         dir = dir.normalized;
 
         if (Vector2.Distance(transform.position, target.position) > stoppingDistance && Vector2.Distance(transform.position, target.position) < visiusRadius)
         {
-            rb.MovePosition(rb.position + dir * speed * Time.deltaTime);
+            transform.Translate(dir * speed * Time.deltaTime);
+          //  rb.MovePosition(rb.position + dir * speed * Time.deltaTime);
             anim.SetBool("Walking", true);
             anim.SetFloat("movX", dir.x);
             anim.SetFloat("movY", dir.y);
@@ -53,7 +54,8 @@ public class Minon : Enemy
         }
         else if (Vector2.Distance(transform.position, target.position) < retreatDistance)
         {
-            rb.MovePosition(rb.position + dir * -speed * Time.deltaTime);
+            transform.Translate(dir * -speed * Time.deltaTime);
+            // rb.MovePosition(rb.position + dir * -speed * Time.deltaTime);
             anim.SetBool("Walking", true);
             anim.SetFloat("movX", dir.x);
             anim.SetFloat("movY", dir.y);

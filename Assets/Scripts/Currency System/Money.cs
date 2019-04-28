@@ -16,15 +16,16 @@ public class Money : MonoBehaviour
     void Start()
     {
         currency = FindObjectOfType<Currency>();
+      
+    }
+
+    private void Update()
+    {
         silverCoins = currency.currentSilverCoins;
         goldCoins = currency.currentGoldCoins;
 
         silverCoinsText.text = "x" + silverCoins;
         goldCoinsText.text = "x" + goldCoins;
-    }
-
-    private void Update()
-    {
 #if UNITY_EDITOR
         if (Input.GetKeyDown(KeyCode.T))
         {
