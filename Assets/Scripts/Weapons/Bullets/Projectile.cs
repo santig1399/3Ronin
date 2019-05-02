@@ -12,7 +12,7 @@ public class Projectile : MonoBehaviour {
     public Transform player;
 
     private void Start()
-    {
+    {  
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
     public virtual void  Shoot()
@@ -26,7 +26,7 @@ public class Projectile : MonoBehaviour {
             {
                 Debug.Log("Player Must Take Damage");
                 hitInfo.collider.GetComponent<PlayerHealth>().TakeDamage(damage);
-                
+                FindObjectOfType<AudioManager>().Play("PlayerHurt");
             }
             DestroyProjectile();
 

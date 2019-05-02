@@ -5,10 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-   
+    private void Start()
+    {
+        FindObjectOfType<AudioManager>().Play("MenuTheme");
+    }
     public void PlayGame()
     {
         SceneManager.LoadScene("Level1");
+        FindObjectOfType<AudioManager>().Play("StartButton");
+        FindObjectOfType<AudioManager>().Stop("MenuTheme");
     }
 
     public void Back(){
@@ -17,6 +22,7 @@ public class MainMenu : MonoBehaviour
     public void Store()
     {
         SceneManager.LoadScene("Store");
+        FindObjectOfType<AudioManager>().Stop("MenuTheme");
     }
     public void QuitGame()
     {

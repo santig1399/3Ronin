@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class Money : MonoBehaviour
 {
     private Currency currency;
@@ -12,6 +13,8 @@ public class Money : MonoBehaviour
     public Text silverCoinsText;
     public Text goldCoinsText;
 
+    //public int totalGoldSpend;
+    //public int totalSilverpend;
 
     void Start()
     {
@@ -67,6 +70,7 @@ public class Money : MonoBehaviour
                 silverCoins -= ammount;
                 silverCoinsText.text = "x" + silverCoins;
                 currency.currentSilverCoins = silverCoins;
+                currency.silverSpend += ammount;
             }
             else {
                 Debug.Log("not enought silver coins");
@@ -79,6 +83,8 @@ public class Money : MonoBehaviour
                 goldCoins -= ammount;
                 goldCoinsText.text = "x" + goldCoins;
                 currency.currentGoldCoins = goldCoins;
+                currency.goldSpend += ammount;
+
             }
             else
             {

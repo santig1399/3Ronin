@@ -45,8 +45,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentSilverCoins: 0
   currentGoldCoins: 0
-  startSilverCoins: 90
-  startGoldCoins: 5
+  startSilverCoins: 1000
+  startGoldCoins: 1000
   startAmmount: 0
+  goldSpend: 0
+  silverSpend: 0
   InitialDialogue: {fileID: 11400000, guid: 66315a4341bbb864dad18469db96b553, type: 2}
   initialSplashArt: {fileID: 0}

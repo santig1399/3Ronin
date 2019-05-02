@@ -117,9 +117,7 @@ public class Boss : Enemy
         Instantiate(bossBullets[bulletIndex], transform.position, transform.rotation);
         yield return new WaitForSeconds(0.2f);
         Instantiate(bossBullets[bulletIndex], transform.position, transform.rotation);
-        yield return new WaitForSeconds(0.2f);
-        Instantiate(bossBullets[bulletIndex], transform.position, transform.rotation);
-        
+               
     }
     
     

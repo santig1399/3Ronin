@@ -23,6 +23,7 @@ public class Movement : MonoBehaviour
     public Color specialPlayerColor;
     public Color specialImageColor;
     private bool canActivateSpecial = true;
+    private bool specialIsActive;
     public Image specialIndicatorImage;
     
     private SpriteRenderer sprite;
@@ -41,7 +42,8 @@ public class Movement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         FindObjectOfType<Currency>().IntroDialogue(splashArt);
-        
+        FindObjectOfType<AudioManager>().Play("AmbientMusic");
+
         specialIndicatorImage.fillAmount = timeBtwSpecial / startTimeBtwnSpecial;
     }
 
@@ -62,7 +64,6 @@ public class Movement : MonoBehaviour
             specialDuration -= Time.deltaTime;
             sprite.color = specialPlayerColor;
             specialIndicatorImage.fillAmount = specialDuration / startSpecialDuration;
-
             //special stats
             this.damage = specialDamage;
         }
@@ -104,16 +105,22 @@ public class Movement : MonoBehaviour
         
     }
     public void Attack() {
-
-        anim.SetTrigger("Attacking");
-        Debug.Log("Attacking With Basic Attack");
+        AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+        bool attacking = stateInfo.IsName("Player_Attack");
+        if (!attacking) {
+            anim.SetTrigger("Attacking");
+            FindObjectOfType<AudioManager>().Play("PlayerAttack");
+        }
+        
+        
+      
     }
     public void SpecialAttack() {
-        if (canActivateSpecial) {
+        if (canActivateSpecial && specialDuration<=0) {
             anim.SetTrigger("Special");
             specialDuration = startSpecialDuration;
             timeBtwSpecial = 0;
-            Debug.Log("Attacking With Special Attack");
+            FindObjectOfType<AudioManager>().Play("PlayerSpecial");
         }
         
     }
@@ -125,6 +132,7 @@ public class Movement : MonoBehaviour
             if (collision.CompareTag("Enemy"))
             {
                 collision.GetComponent<EnemyHealth>().TakeDamage(damage);
+               
             }
             //else if (collision.CompareTag("EnemyBullet")) {
             //    Destroy(collision.gameObject)

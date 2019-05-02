@@ -40,6 +40,7 @@ public class Arcabuz : MonoBehaviour
             if (timeBtwShoots <= 0)
             {
                 anim.SetTrigger("Attacking");
+                FindObjectOfType<AudioManager>().Play("ArcabuzAttack");
                 Instantiate(bulletPrefab, firePoint.position,firePoint.rotation);
                 timeBtwShoots = startTimeBtwShoots;
             }

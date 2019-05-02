@@ -9,6 +9,10 @@ public class Minon : Enemy
     private Animator anim;
     private float timeBtwAttacks;
     private CircleCollider2D attackCollider;
+
+    public enum MinionType {ashigaru, sword };
+    public MinionType minionType;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -46,6 +50,14 @@ public class Minon : Enemy
                 anim.SetTrigger("Attacking");
                 anim.SetFloat("movX", dir.x);
                 anim.SetFloat("movY", dir.y);
+                if (minionType == MinionType.sword)
+                {
+                    FindObjectOfType<AudioManager>().Play("MinionAttack");
+                }
+                else if (minionType == MinionType.ashigaru) {
+                    FindObjectOfType<AudioManager>().Play("AshigaruAttack");
+                }
+               
                 timeBtwAttacks = startTimeBtwAttacks;
             }
             else {

@@ -8,6 +8,7 @@ public class Bullet : Projectile
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        FindObjectOfType<AudioManager>().Play("Bullet");
     }
     
     void Update()

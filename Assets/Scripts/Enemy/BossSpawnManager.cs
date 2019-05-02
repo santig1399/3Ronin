@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Analytics;
 public class BossSpawnManager : MonoBehaviour
 {
     public float minX;
@@ -57,7 +58,16 @@ public class BossSpawnManager : MonoBehaviour
             //Instantiate(bossPrefab, spawnPoint, Quaternion.identity);
             player.transform.position = centerRoom;
             activated = true;
-            twinManager.SetActive(false);
+            if (twinManager != null) {
+                twinManager.SetActive(false);
+            }
+
+            Analytics.CustomEvent("Discover a Boss Zone", new Dictionary<string, object>
+            {
+                {"Boss name",bossName},
+                {"Time To Discover", Time.time},
+            });
+
         }
     }
 

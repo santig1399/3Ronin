@@ -522,6 +522,7 @@ MonoBehaviour:
   speed: 2.41
   startTimeBtwAttacks: 2
   bulletPrefab: {fileID: 0}
+  minionType: 1
 --- !u!50 &8779519532387714685
 Rigidbody2D:
   serializedVersion: 4

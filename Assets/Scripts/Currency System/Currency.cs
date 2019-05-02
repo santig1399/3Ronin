@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Analytics;
 
 
 
@@ -14,11 +15,15 @@ public class Currency : MonoBehaviour
     [SerializeField]
     private int startAmmount = 0; //bool to control initial ammount given to player
 
+    public int goldSpend;
+    public int silverSpend;
+
     public Dialogue InitialDialogue;
     private int  introDialogue = 0;
     public GameObject initialSplashArt;
 
     public static Currency instance;
+    
 
     void Awake()
     {
@@ -33,7 +38,10 @@ public class Currency : MonoBehaviour
             return;
         }
         startAmmount = PlayerPrefs.GetInt("StartAmmount");
-        introDialogue = PlayerPrefs.GetInt("Introduction"); 
+        introDialogue = PlayerPrefs.GetInt("Introduction");
+
+        goldSpend = PlayerPrefs.GetInt("Total_Gold_Spended");
+        silverSpend = PlayerPrefs.GetInt("Totla_Silver_Spended");
 
         if (startAmmount != 0) {
             currentSilverCoins = PlayerPrefs.GetInt("SilverCoins");
@@ -66,9 +74,17 @@ public class Currency : MonoBehaviour
     {
         PlayerPrefs.SetInt("SilverCoins", currentSilverCoins);
         PlayerPrefs.SetInt("GoldCoins", currentGoldCoins);
+
+        PlayerPrefs.SetInt("Total_Gold_Spended", goldSpend);
+        PlayerPrefs.SetInt("Totla_Silver_Spended", silverSpend);
+
+        Dictionary<string, object> eventData = new Dictionary<string, object>();
+        eventData.Add("gold_spended",goldSpend);
+        Analytics.CustomEvent("Total_Gold_Spended",eventData);
+
         Debug.Log("Saved Currency");
         Debug.LogWarning("on quit is deleting all player prefs");
-        //PlayerPrefs.DeleteAll();
+        PlayerPrefs.DeleteAll();
         
     }
 

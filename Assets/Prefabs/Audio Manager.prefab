@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2430723505181797213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2430723505181797212}
+  - component: {fileID: 2430723505181797215}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2430723505181797212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2430723505181797213}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -22.358437, y: 12.119944, z: 0.004074697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2430723505181797215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2430723505181797213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f783cb550fefcd439b69a1922e17799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MenuTheme
+    clip: {fileID: 8300000, guid: 25d0839d3fb0a09438644f53e61db373, type: 3}
+    volume: 0.15
+    pitch: 0.8
+    loop: 1
+    source: {fileID: 0}
+  - name: StartButton
+    clip: {fileID: 8300000, guid: b03f541c9f85cab4593f53baac40219c, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: WaterZone
+    clip: {fileID: 8300000, guid: 519c4882f04cb0f47a5c402b7ec95b53, type: 3}
+    volume: 0.05
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: WindZone
+    clip: {fileID: 8300000, guid: 613feab09efec044d863cf8e813d3504, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: ArcabuzAttack
+    clip: {fileID: 8300000, guid: 4b378e122967b7c41a2cb714505c5e03, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MinionAttack
+    clip: {fileID: 8300000, guid: 565747ea5e05be940b58c61c276f92d3, type: 3}
+    volume: 0.35
+    pitch: 1.35
+    loop: 0
+    source: {fileID: 0}
+  - name: AshigaruAttack
+    clip: {fileID: 8300000, guid: 2f199987416aeda4e8554f35627c0e8c, type: 3}
+    volume: 0.1
+    pitch: 1.4
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerAttack
+    clip: {fileID: 8300000, guid: 565747ea5e05be940b58c61c276f92d3, type: 3}
+    volume: 0.5
+    pitch: 0.5
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerSpecial
+    clip: {fileID: 8300000, guid: 666e9f5bba19e9149a51bdd38b86d029, type: 3}
+    volume: 0.5
+    pitch: 0.7
+    loop: 0
+    source: {fileID: 0}
+  - name: AmbientMusic
+    clip: {fileID: 8300000, guid: 885daf999dfe65c458515b84434ac909, type: 3}
+    volume: 0.12
+    pitch: 0.8
+    loop: 1
+    source: {fileID: 0}
+  - name: Bullet
+    clip: {fileID: 8300000, guid: 4b378e122967b7c41a2cb714505c5e03, type: 3}
+    volume: 0.15
+    pitch: 1.6
+    loop: 0
+    source: {fileID: 0}
+  - name: HommingMisile
+    clip: {fileID: 8300000, guid: 4b378e122967b7c41a2cb714505c5e03, type: 3}
+    volume: 0.15
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerHurt
+    clip: {fileID: 8300000, guid: d6b5ed2b189e3244bab5afefa3882e67, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GhostHurt
+    clip: {fileID: 8300000, guid: 57ccfb8a1460a0548862fa9288542e7f, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GhostDead
+    clip: {fileID: 8300000, guid: 5a3306e0a2c77c447a8e2bc34a14cf8b, type: 3}
+    volume: 0.15
+    pitch: 0.9
+    loop: 0
+    source: {fileID: 0}

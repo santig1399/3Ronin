@@ -21,7 +21,7 @@ public class HomingMissile : Projectile
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         timeToExplode = startTimeToExplode;
         rb = GetComponent<Rigidbody2D>();
-
+        FindObjectOfType<AudioManager>().Play("HommingMisile");
 
     }
 
@@ -44,6 +44,8 @@ public class HomingMissile : Projectile
                 {
                     Debug.Log("Player Must Take Damage");
                     hitInfo.collider.GetComponent<PlayerHealth>().TakeDamage(damage);
+                    FindObjectOfType<AudioManager>().Play("PlayerHurt");
+
 
                 }
                 DestroyProjectile();

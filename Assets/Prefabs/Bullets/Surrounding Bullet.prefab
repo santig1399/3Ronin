@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5199653620539326131}
   - component: {fileID: 5199653620539326132}
   - component: {fileID: 5199653620539326130}
+  - component: {fileID: 3968814726323245171}
   m_Layer: 0
   m_Name: Surrounding Bullet
   m_TagString: EnemyBullet
@@ -69,8 +70,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  m_Color: {r: 1, g: 0.012862844, b: 0, a: 1}
+  m_Sprite: {fileID: 21300008, guid: d582d0a115759cc4e80e56ec456efba7, type: 3}
+  m_Color: {r: 1, g: 0.9836074, b: 0.8915094, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -100,3 +101,22 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 768
   player: {fileID: 0}
+--- !u!95 &3968814726323245171
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5199653620539326133}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2bf775ce9c72aeb4499e2da9108f8932, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
