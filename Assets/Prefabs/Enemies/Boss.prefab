@@ -562,3 +562,4 @@ MonoBehaviour:
   healingClip: {fileID: 0}
   hurtClip: {fileID: 0}
   healthSlider: {fileID: 5489803343956120699}
+  deadEffect: {fileID: 1305675960232650, guid: 50ba083b7f19af24cbaccf5384d10848, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d36a42dfb785341b16095b16217ca3, type: 3}
+  m_Name: BossSupIz
+  m_EditorClassIdentifier: 
+  dialogName: BossGhost
+  dialogSentences:
+  - "Se escucha a algo croar, \xBFqu\xE9 habr\xE1 en \xE9ste lugar?"
+  - "Lo mejor ser\xE1 retroceder, siento que no es momento para ir por \xE9ste sitio"
+  - "Aunque la voz misteriosa me dec\xEDa ser amigo del destino."
+  - "\xBFQuiz\xE1s puedo yo elegir?."
+  - "Soy amigo del destino, \xE9l lo dijo, aunque\u2026"
+  - "Yo no eleg\xED ser incinerado durante la masacre del monte Hiei."
+  - "Quiz\xE1s, creo yo, existe la posibilidad de un ser por encima de m\xED, gui\xE1ndome
+    con sus hilos invisibles\u2026 quiz\xE1s."

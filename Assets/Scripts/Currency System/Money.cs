@@ -7,8 +7,8 @@ using UnityEngine.UI;
 public class Money : MonoBehaviour
 {
     private Currency currency;
-    private int silverCoins;
-    private int goldCoins;
+    public int silverCoins;
+    public int goldCoins;
 
     public Text silverCoinsText;
     public Text goldCoinsText;

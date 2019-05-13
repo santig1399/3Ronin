@@ -8,29 +8,38 @@ public class InputHandler : MonoBehaviour
     private Movement movement;
     public Joystick joystick;
     private float x, y;
-
+    private Animator anim;
     
 
     void Start()
     {
         movement = FindObjectOfType<Movement>();
+        anim = GetComponent<Animator>();
     }
 
    
     void Update()
     {
 #if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
+        AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+        bool attacking = stateInfo.IsName("Player_Attack");
+        
         //x = Input.GetAxisRaw("Horizontal");
         //y = Input.GetAxisRaw("Vertical");
         x = Input.GetAxisRaw("Horizontal");
         y = Input.GetAxisRaw("Vertical");
         movement.Move(x, y);
 
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetMouseButtonDown(0))
         {
-            movement.Attack();
+            if (!attacking)
+            {
+                 movement.Attack();
+                       
+            }
+          
         }
-        else if (Input.GetKeyDown(KeyCode.Q)) {
+        else if (Input.GetKeyDown(KeyCode.E)) {
             movement.SpecialAttack();
         }
 #elif UNITY_ANDROID || UNITY_IPHONE

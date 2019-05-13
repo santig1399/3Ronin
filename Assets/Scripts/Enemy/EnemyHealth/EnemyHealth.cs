@@ -11,6 +11,9 @@ public class EnemyHealth : MonoBehaviour
     public AudioClip healingClip;
     public AudioClip hurtClip;
     public Slider healthSlider;
+
+    public GameObject deadEffect;
+
     Animator anim;
 
 
@@ -49,7 +52,16 @@ public class EnemyHealth : MonoBehaviour
         //dead sound
         //try again scene
         Debug.Log("Enemy dead");
-        Destroy(gameObject);
 
+        Boss boss = GetComponent<Boss>();
+        FindObjectOfType<PlayerKills>().kills++;
+        if (boss != null) {
+            FindObjectOfType<PlayerKills>().bossKills++;
+        }
+        if (deadEffect != null) {
+            Instantiate(deadEffect, transform.position, Quaternion.identity);
+        }
+        Destroy(gameObject);
+        
     }
 }

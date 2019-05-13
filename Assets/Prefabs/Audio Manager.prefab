@@ -100,7 +100,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: AmbientMusic
     clip: {fileID: 8300000, guid: 885daf999dfe65c458515b84434ac909, type: 3}
-    volume: 0.12
+    volume: 0.1
     pitch: 0.8
     loop: 1
     source: {fileID: 0}
@@ -133,4 +133,16 @@ MonoBehaviour:
     volume: 0.15
     pitch: 0.9
     loop: 0
+    source: {fileID: 0}
+  - name: Laugh
+    clip: {fileID: 8300000, guid: f8deb6a74bef3ca498e7e36e363d175e, type: 3}
+    volume: 1
+    pitch: 0.9
+    loop: 0
+    source: {fileID: 0}
+  - name: Ghost
+    clip: {fileID: 8300000, guid: 18ecb5bd42c648d49aa8ada78dd161bf, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
     source: {fileID: 0}

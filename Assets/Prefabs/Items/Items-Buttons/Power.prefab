@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 988638023845908819}
   m_Layer: 5
   m_Name: Power
-  m_TagString: Untagged
+  m_TagString: InventoryButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -145,3 +145,4 @@ MonoBehaviour:
   useEffect: {fileID: 0}
   item: {fileID: 5995669561628975444, guid: ee452e703e0bc8d45bf7d749b277d0ca, type: 3}
   type: 2
+  health: 0

@@ -476,6 +476,7 @@ MonoBehaviour:
   speed: 2.41
   startTimeBtwAttacks: 2
   bulletPrefab: {fileID: 0}
+  minionType: 0
 --- !u!114 &7453552457360634391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -493,6 +494,7 @@ MonoBehaviour:
   healingClip: {fileID: 0}
   hurtClip: {fileID: 0}
   healthSlider: {fileID: 4833254695717044041}
+  deadEffect: {fileID: 1305675960232650, guid: c60581760aadd4c4c86d945119804282, type: 3}
 --- !u!50 &7453552457360634384
 Rigidbody2D:
   serializedVersion: 4

@@ -16,28 +16,60 @@ public class DialogueManager : MonoBehaviour
     //public Dialogue dialogue; 
 
     public GameObject continueButton;
-
+    private Dialogue dialog;
     public int Index { get => index; set => index = value; }
+    public int ind;
+
 
     public void StartDialogue(Dialogue dialogue)
     {   
         if (dialogue != null) {
+            FindObjectOfType<AudioManager>().Play("Ghost");
+            this.dialog = dialogue;
             this.sentences = dialogue.dialogSentences;
             //Debug.Log("Dialogu: "+dialogue.name);
             dialogueUi.SetActive(true);
             StartCoroutine(Type());
             inventory.SetActive(false);
+
+            // FindObjectOfType<Movement>().speed =0;
+
+            Enemy[] enemies = FindObjectsOfType<Enemy>();
+            foreach (Enemy e in enemies)
+            {
+                e.speed = 0f;
+            }
             FindObjectOfType<Movement>().speed = 0;
+            
         }
     }
     private void Update()
     {
+        ind = index;
         if (sentences != null) {
             if (textDisplay.text == sentences[Index])
             {
+                if (dialog.dialogName == "Intro") {
+                    FindObjectOfType<AudioManager>().Stop("AmbientMusic");
+                }
+                if (dialog.dialogName == "Intro" && index == 7)
+                {
+                    FindObjectOfType<AudioManager>().Play("Laugh");
+
+                }
+                else if (dialog.dialogName == "Intro" && index > 7) {
+                    FindObjectOfType<AudioManager>().Play("AmbientMusic");
+                    FindObjectOfType<AudioManager>().Stop("Gost");
+                }
+
                 continueButton.SetActive(true);
+                if (Input.GetKeyDown(KeyCode.Space)) {
+                    NewSentence();
+                }
             }
         }
+
+        
         
     }
 
@@ -53,6 +85,7 @@ public class DialogueManager : MonoBehaviour
     public void NewSentence() {
 
         continueButton.SetActive(false);
+        
 
         if (Index < sentences.Length - 1)
         {
@@ -66,7 +99,15 @@ public class DialogueManager : MonoBehaviour
             initialSplashArt.SetActive(false);
             inventory.SetActive(true);
             continueButton.SetActive(false);
+
+            Enemy[] enemies = FindObjectsOfType<Enemy>();
+            foreach (Enemy e in enemies)
+            {
+                e.speed = 2.41f;
+            }
             FindObjectOfType<Movement>().speed = 5;
+            FindObjectOfType<AudioManager>().Stop("Ghost");
+            
         }
     }
 }

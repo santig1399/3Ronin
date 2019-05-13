@@ -15,6 +15,7 @@ public class Movement : MonoBehaviour
     public float startSpecialDuration;
     [Tooltip("Cooldown time for special hability")]
     public float startTimeBtwnSpecial;
+    public float retreatSeconds;
     //[SerializeField]
     private float timeBtwSpecial;
     //[SerializeField]
@@ -131,14 +132,22 @@ public class Movement : MonoBehaviour
 
             if (collision.CompareTag("Enemy"))
             {
+               // Enemy enemy = collision.GetComponent<Enemy>();
                 collision.GetComponent<EnemyHealth>().TakeDamage(damage);
-               
+               // if (enemy != null)StartCoroutine(EnemyPushed(enemy,retreatSeconds));
             }
             //else if (collision.CompareTag("EnemyBullet")) {
             //    Destroy(collision.gameObject)
             //}
         }
     }
+
+    //IEnumerator EnemyPushed(Enemy enemy, float seconds) {
+    //    enemy.speed *= -2;
+    //    yield return new WaitForSeconds(seconds);
+    //    enemy.speed *= -1;
+    //    enemy.speed = enemy.speed/2;
+    //}
 
 
 

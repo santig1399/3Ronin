@@ -9,9 +9,11 @@ public class GameOver : MonoBehaviour
 
     public GameObject respawnMenu;
     public GameObject gameOverMenu;
+    private Money money;
 
     private void Start()
     {
+        money = FindObjectOfType<Money>();
         playerHealth = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
     }
     private void Update()
@@ -34,12 +36,29 @@ public class GameOver : MonoBehaviour
        
     }
 
-    public void Respawn() {
-        //compare de currency ammount
-        respawnMenu.SetActive(false);
-        playerHealth.canRespawn = false;
-        playerHealth.TakeHealth(playerHealth.maxHealth);
-        Time.timeScale = 1;
+    public void Respawn(string coin) {
+        if (coin == "gold")
+        {
+            if (money.goldCoins - 10 >= 0)
+            {
+                respawnMenu.SetActive(false);
+                playerHealth.canRespawn = false;
+                playerHealth.TakeHealth(playerHealth.maxHealth);
+                Time.timeScale = 1;
+                money.SpendMoney(coin, 10);
+            }
+        }
+        else if (coin == "silver") {
+            if (money.silverCoins - 3 >= 0)
+            {
+                respawnMenu.SetActive(false);
+                playerHealth.canRespawn = false;
+                playerHealth.TakeHealth(playerHealth.maxHealth);
+                Time.timeScale = 1;
+                money.SpendMoney(coin, 3);
+            }
+        }
+        
     }
 
     public void NoRespawn()
@@ -55,6 +74,7 @@ public class GameOver : MonoBehaviour
     {
         gameOverMenu.SetActive(false);
         SceneManager.LoadScene("MainMenu");
+        FindObjectOfType<AudioManager>().Stop("AmbientMusic");
         Time.timeScale = 1;
     }
 

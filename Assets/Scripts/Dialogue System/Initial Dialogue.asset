@@ -12,8 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76d36a42dfb785341b16095b16217ca3, type: 3}
   m_Name: Initial Dialogue
   m_EditorClassIdentifier: 
-  nameOfDialogue: 
-  npcName: 
+  dialogName: Intro
   dialogSentences:
-  - Time Ago... this castle was a good place...
-  - Now is the dungeon of a lot of monsters
+  - Te he encontrado, finalmente te he encontrado, amigo del destino.
+  - "En estos momentos tu vida pende de un hilo, un hilo que yo controlo. Haberte
+    quemado en el monte Hiei fue doloroso \xBFcierto?. "
+  - "Pero observa tu nuevo poder, eres capaz de controlar las llamas y aumentar la
+    penetraci\xF3n de tu arma en el cuerpo de tus contrincantes."
+  - "Y m\xE1s si se trata de muertos, ellos est\xE1n corruptos, por tanto tus llamas
+    purificar\xE1n sus almas. "
+  - "Ve, ad\xE9ntrate en el castillo de Azuchi y acaba a los dos guardias principales
+    para as\xED poder enfrentarte al se\xF1or Nobunaga."
+  - "\xBFCu\xE1l ser\xE1 tu pago? te librar\xE9 de dicho poder, que para ti es una
+    maldici\xF3n."
+  - "A pesar de que la piel se vea en ti regenerada, has perdido la sensibilidad a
+    cambio de poder incinerarte, sin causar da\xF1os a tu cuerpo"
+  - "Yo s\xE9 que tienes una esposa y dos hijos, \xBFNo quieres, acaso, abrazarlos?"
+  - "Porque si lo haces en \xE9ste momento podr\xEDas abrasarlos, jajaja"
+  - '...'

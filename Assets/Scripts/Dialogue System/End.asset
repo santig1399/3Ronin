@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d36a42dfb785341b16095b16217ca3, type: 3}
+  m_Name: End
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogSentences:
+  - "Eso ha sido todo, por el momento\u2026"
+  - "\xC9ste es el inicio de tu traves\xEDa, d\xF3nde podr\xE1s elegir tu destino."
+  - Algunos simplemente se quedan en sus hogares esperando a morir.
+  - "T\xFA decidir\xE1s cu\xE1ndo morir. "
+  - "\xBFSer\xE1s asesinado por un simple lacayo?"
+  - "\xBFO ser\xE1s atravesado por la espada de Nobunaga?"
+  - "Quiz\xE1s, en el peor de los casos, no mueras, puedas asesinar a Nobunaga, y
+    despu\xE9s de ser librado de la maldici\xF3n, ser atacado por una recua de simples
+    bandidos"
+  - "O\u2026 nunca encontrar a tu familia, lo que quiz\xE1s te lleve a cometer Seppuku."
+  - "Aunque piensa lo bueno de la \xFAltima opci\xF3n, t\xFA decides."
+  - '...'
